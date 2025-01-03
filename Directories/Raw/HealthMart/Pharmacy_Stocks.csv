@@ -1,0 +1,16 @@
+﻿Item ID,Product Name,Category,Quantity,Price ($),Expiry Date,Supplier ID
+101,Ubrelvy,Analgesic,50,2.5,31-12-2025,S001
+102,Ultracet,Analgesic (combines acetaminophen & tramadol),30,5,15-01-2026,S002
+103,Tecentriq,Cancer Immunotherapy (Anti-cancer),100,1.8,01-06-2025,S002
+104,Quercetin,Supplement (Antioxidant),200,3.2,30-11-2024,S001
+105,Norepinephrine,Vasopressor (Used in shock management),70,4.5,15-08-2024,S005
+106,Norflex,Muscle Relaxant (Pain management),30,5,15-01-2026,S001
+107,Magnesium oxide,Antacid/Supplement,100,1.8,30-11-2024,S003
+103,Levemir,Insulin (Used for diabetes),100,1.8,01-06-2025,S002
+104,Januvia,Antidiabetic (DPP-4 inhibitor),200,3.2,30-11-2024,S001
+105,Ivabradine,Cardiac Drug (Used for heart failure),70,4.5,15-08-2024,S005
+106,Glucosamine,Supplement (Joint health),30,5,15-01-2026,S001
+108,Epoetin alfa,Hematologic Drug (Erythropoiesis Stimulating Agent),1000,320000,01-06-2025,S004
+111,Diovan,Antihypertensive (Blood pressure),20000000,6,30-11-2024,S005
+112,Calcium carbonate,Antacid/Supplement (Calcium supplement),79999999,999999999,15-08-2024,S001
+113,Avonex,Immunomodulator (Multiple Sclerosis),88888888888,8,15-01-2026,S002

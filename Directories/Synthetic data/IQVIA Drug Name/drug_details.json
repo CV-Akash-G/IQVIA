@@ -1,0 +1,6252 @@
+[
+    {
+        "Drug Name": "Abilify",
+        "Generic Name": "aripiprazole",
+        "Drug Class": "Atypical antipsychotics"
+    },
+    {
+        "Drug Name": "Abilify Asimtufii",
+        "Generic Name": "aripiprazole",
+        "Drug Class": "Atypical antipsychotics"
+    },
+    {
+        "Drug Name": "Abilify Maintena",
+        "Generic Name": "aripiprazole lauroxil",
+        "Drug Class": "Atypical antipsychotics"
+    },
+    {
+        "Drug Name": "Abiraterone",
+        "Generic Name": "Yonsa",
+        "Drug Class": "Miscellaneous antineoplastics"
+    },
+    {
+        "Drug Name": "Acetaminophen",
+        "Generic Name": "Actamin",
+        "Drug Class": "Miscellaneous analgesics"
+    },
+    {
+        "Drug Name": "Acetazolamide",
+        "Generic Name": "Diamox",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Acetylcysteine",
+        "Generic Name": "NAC",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Actemra",
+        "Generic Name": "tocilizumab",
+        "Drug Class": "Interleukin inhibitors"
+    },
+    {
+        "Drug Name": "Actos",
+        "Generic Name": "pioglitazone",
+        "Drug Class": "Thiazolidinediones"
+    },
+    {
+        "Drug Name": "Acyclovir",
+        "Generic Name": "Sitavig",
+        "Drug Class": "Purine nucleosides"
+    },
+    {
+        "Drug Name": "Adalimumab",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Adderall",
+        "Generic Name": "amphetamine and dextroamphetamine",
+        "Drug Class": "CNS stimulants"
+    },
+    {
+        "Drug Name": "Adderall XR",
+        "Generic Name": "amphetamine and dextroamphetamine",
+        "Drug Class": "CNS stimulants"
+    },
+    {
+        "Drug Name": "Advair Diskus",
+        "Generic Name": "fluticasone and salmeterol",
+        "Drug Class": "Bronchodilator combinations"
+    },
+    {
+        "Drug Name": "Advil",
+        "Generic Name": "ibuprofen",
+        "Drug Class": "Nonsteroidal anti-inflammatory drugs"
+    },
+    {
+        "Drug Name": "Afinitor",
+        "Generic Name": "everolimus",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Agamree",
+        "Generic Name": "vamorolone",
+        "Drug Class": "Glucocorticoids"
+    },
+    {
+        "Drug Name": "Aimovig",
+        "Generic Name": "erenumab",
+        "Drug Class": "CGRP inhibitors"
+    },
+    {
+        "Drug Name": "Ajovy",
+        "Generic Name": "fremanezumab-vfrm",
+        "Drug Class": "CGRP inhibitors"
+    },
+    {
+        "Drug Name": "Albuterol Inhalation",
+        "Generic Name": "ProAir HFA",
+        "Drug Class": "Adrenergic bronchodilators"
+    },
+    {
+        "Drug Name": "Aldactone",
+        "Generic Name": "spironolactone",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Alecensa",
+        "Generic Name": "alectinib",
+        "Drug Class": "Multikinase inhibitors"
+    },
+    {
+        "Drug Name": "Alendronate",
+        "Generic Name": "Binosto",
+        "Drug Class": "Bisphosphonates"
+    },
+    {
+        "Drug Name": "Alfuzosin",
+        "Generic Name": "Uroxatral",
+        "Drug Class": "Alpha blockers"
+    },
+    {
+        "Drug Name": "Allopurinol",
+        "Generic Name": "Zyloprim",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Alprazolam",
+        "Generic Name": "Xanax",
+        "Drug Class": "Benzodiazepines"
+    },
+    {
+        "Drug Name": "Alprolix",
+        "Generic Name": " Coagulation Factor IX",
+        "Drug Class": "Miscellaneous coagulation modifiers"
+    },
+    {
+        "Drug Name": "Alunbrig",
+        "Generic Name": "brigatinib",
+        "Drug Class": "Multikinase inhibitors"
+    },
+    {
+        "Drug Name": "Amantadine",
+        "Generic Name": "Gocovri",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Ambien",
+        "Generic Name": "zolpidem",
+        "Drug Class": "Miscellaneous anxiolytics, sedatives and hypnotics"
+    },
+    {
+        "Drug Name": "Ambroxol Hydrochloride",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Amiodarone",
+        "Generic Name": "Pacerone",
+        "Drug Class": "Group III antiarrhythmics"
+    },
+    {
+        "Drug Name": "Amitriptyline",
+        "Generic Name": null,
+        "Drug Class": "Tricyclic antidepressants"
+    },
+    {
+        "Drug Name": "Amlodipine",
+        "Generic Name": "Katerzia",
+        "Drug Class": "Calcium channel blockers"
+    },
+    {
+        "Drug Name": "Amoxicillin",
+        "Generic Name": "Amoxil",
+        "Drug Class": "Aminopenicillins"
+    },
+    {
+        "Drug Name": "Amoxicillin and Clavulanate",
+        "Generic Name": "Augmentin",
+        "Drug Class": "Penicillins / beta-lactamase inhibitors"
+    },
+    {
+        "Drug Name": "Ampicillin",
+        "Generic Name": "Aminopenicillins",
+        "Drug Class": "Aminopenicillins"
+    },
+    {
+        "Drug Name": "Anastrozole",
+        "Generic Name": "Arimidex",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "AndroGel",
+        "Generic Name": "testosterone topical",
+        "Drug Class": "Androgens and anabolic steroids"
+    },
+    {
+        "Drug Name": "Annovera Vaginal Ring",
+        "Generic Name": "ethinyl estradiol and segesterone",
+        "Drug Class": "Contraceptives"
+    },
+    {
+        "Drug Name": "Apalutamide",
+        "Generic Name": "Erleada",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Apixaban",
+        "Generic Name": "Eliquis",
+        "Drug Class": "Factor Xa inhibitors"
+    },
+    {
+        "Drug Name": "Apokyn",
+        "Generic Name": "apomorphine injection",
+        "Drug Class": "Dopaminergic antiparkinsonism agents"
+    },
+    {
+        "Drug Name": "Apriso",
+        "Generic Name": "mesalamine",
+        "Drug Class": "5-aminosalicylates"
+    },
+    {
+        "Drug Name": "Aptiom",
+        "Generic Name": "eslicarbazepine",
+        "Drug Class": "Dibenzazepine anticonvulsants"
+    },
+    {
+        "Drug Name": "Aricept",
+        "Generic Name": "donepezil",
+        "Drug Class": "Cholinesterase inhibitors"
+    },
+    {
+        "Drug Name": "Arikayce",
+        "Generic Name": "amikacin liposome",
+        "Drug Class": "Aminoglycosides"
+    },
+    {
+        "Drug Name": "Arimidex",
+        "Generic Name": "anastrozole",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Aripiprazole",
+        "Generic Name": "Abilify",
+        "Drug Class": "Atypical antipsychotics"
+    },
+    {
+        "Drug Name": "Aristada Injection",
+        "Generic Name": "aripiprazole lauroxil",
+        "Drug Class": "Atypical antipsychotics"
+    },
+    {
+        "Drug Name": "Aromasin",
+        "Generic Name": "exemestane",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Ascorbic acid",
+        "Generic Name": "Ascorbic Acid Quick Melts",
+        "Drug Class": "Vitamins"
+    },
+    {
+        "Drug Name": "Aspirin",
+        "Generic Name": "Arthritis Pain",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Atenolol",
+        "Generic Name": "Tenormin",
+        "Drug Class": "Cardioselective beta blockers"
+    },
+    {
+        "Drug Name": "Ativan",
+        "Generic Name": "lorazepam",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Atogepant",
+        "Generic Name": null,
+        "Drug Class": "CGRP inhibitors"
+    },
+    {
+        "Drug Name": "Atomoxetine",
+        "Generic Name": "Strattera",
+        "Drug Class": "Adrenergic uptake inhibitors for ADHD"
+    },
+    {
+        "Drug Name": "Atorvastatin",
+        "Generic Name": "Atorvaliq",
+        "Drug Class": "Statins"
+    },
+    {
+        "Drug Name": "Aubagio",
+        "Generic Name": "teriflunomide [ ter-i-FLOO-noe-mide ]",
+        "Drug Class": "Selective immunosuppressants"
+    },
+    {
+        "Drug Name": "Augmentin",
+        "Generic Name": "amoxicillin and clavulanate potassium",
+        "Drug Class": "Penicillins / beta-lactamase inhibitors"
+    },
+    {
+        "Drug Name": "Austedo",
+        "Generic Name": "deutetrabenazine [ doo-TET-ra-BEN-a-zeen ]",
+        "Drug Class": "VMAT2 inhibitors"
+    },
+    {
+        "Drug Name": "Auvelity",
+        "Generic Name": "bupropion and dextromethorphan",
+        "Drug Class": "Miscellaneous antidepressants"
+    },
+    {
+        "Drug Name": "Avonex",
+        "Generic Name": "interferon beta-1a",
+        "Drug Class": "Interferons"
+    },
+    {
+        "Drug Name": "Avsola",
+        "Generic Name": "infliximab-axxq",
+        "Drug Class": "TNF alfa inhibitors"
+    },
+    {
+        "Drug Name": "Azathioprine",
+        "Generic Name": "Azasan",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Azelastine: Package Insert / Prescribing Info",
+        "Generic Name": "Nasal antihistamines and decongestants",
+        "Drug Class": "Nasal antihistamines and decongestants"
+    },
+    {
+        "Drug Name": "Azilect",
+        "Generic Name": "rasagiline",
+        "Drug Class": "Dopaminergic antiparkinsonism agents"
+    },
+    {
+        "Drug Name": "Azithromycin",
+        "Generic Name": "Zithromax",
+        "Drug Class": "Macrolides"
+    },
+    {
+        "Drug Name": "Azulfidine",
+        "Generic Name": "sulfasalazine",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Bacitracin: Package Insert / Prescribing Info",
+        "Generic Name": null,
+        "Drug Class": "Ophthalmic anti-infectives"
+    },
+    {
+        "Drug Name": "Baclofen",
+        "Generic Name": "Lioresal",
+        "Drug Class": "Skeletal muscle relaxants"
+    },
+    {
+        "Drug Name": "Bactrim",
+        "Generic Name": "sulfamethoxazole and trimethoprim",
+        "Drug Class": "Sulfonamides"
+    },
+    {
+        "Drug Name": "Bactroban",
+        "Generic Name": "mupirocin topical",
+        "Drug Class": "Topical antibiotics"
+    },
+    {
+        "Drug Name": "Balsalazide",
+        "Generic Name": "Colazal",
+        "Drug Class": "5-aminosalicylates"
+    },
+    {
+        "Drug Name": "Banzel",
+        "Generic Name": "rufinamide",
+        "Drug Class": "Dibenzazepine anticonvulsants"
+    },
+    {
+        "Drug Name": "Baqsimi Nasal Powder",
+        "Generic Name": "glucagon",
+        "Drug Class": "Glucose elevating agents"
+    },
+    {
+        "Drug Name": "Basaglar",
+        "Generic Name": "insulin glargine",
+        "Drug Class": "Insulin"
+    },
+    {
+        "Drug Name": "Bavencio",
+        "Generic Name": "avelumab",
+        "Drug Class": "Anti-PD-1 and PD-L1 monoclonal antibodies (immune checkpoint inhibitors)"
+    },
+    {
+        "Drug Name": "Belsomra",
+        "Generic Name": "suvorexant",
+        "Drug Class": "Miscellaneous anxiolytics, sedatives and hypnotics"
+    },
+    {
+        "Drug Name": "Benadryl",
+        "Generic Name": "diphenhydramine",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Benazepril",
+        "Generic Name": "Lotensin",
+        "Drug Class": "Angiotensin Converting Enzyme Inhibitors"
+    },
+    {
+        "Drug Name": "Bendeka",
+        "Generic Name": "bendamustine",
+        "Drug Class": "Alkylating agents"
+    },
+    {
+        "Drug Name": "Benicar",
+        "Generic Name": "olmesartan",
+        "Drug Class": "Angiotensin receptor blockers"
+    },
+    {
+        "Drug Name": "Benlysta",
+        "Generic Name": "belimumab",
+        "Drug Class": "Selective immunosuppressants"
+    },
+    {
+        "Drug Name": "Bentyl",
+        "Generic Name": "dicyclomine",
+        "Drug Class": "Anticholinergics / antispasmodics"
+    },
+    {
+        "Drug Name": "Benzonatate",
+        "Generic Name": "Tessalon Perles",
+        "Drug Class": "Antitussives"
+    },
+    {
+        "Drug Name": "Benztropine",
+        "Generic Name": "Cogentin",
+        "Drug Class": "Anticholinergic antiparkinson agents"
+    },
+    {
+        "Drug Name": "Berinert",
+        "Generic Name": "complement C1 esterase inhibitor",
+        "Drug Class": "Hereditary angioedema agents"
+    },
+    {
+        "Drug Name": "Betamethasone Topical",
+        "Generic Name": "Alphatrex",
+        "Drug Class": "Topical steroids"
+    },
+    {
+        "Drug Name": "Betaseron",
+        "Generic Name": "interferon beta-1b",
+        "Drug Class": "Interferons"
+    },
+    {
+        "Drug Name": "Bevacizumab",
+        "Generic Name": "Alymsys",
+        "Drug Class": "VEGF/VEGFR inhibitors"
+    },
+    {
+        "Drug Name": "Beyfortus",
+        "Generic Name": "nirsevimab-alip",
+        "Drug Class": "Antiviral monoclonal antibodies"
+    },
+    {
+        "Drug Name": "Bicalutamide",
+        "Generic Name": "Casodex",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Biktarvy",
+        "Generic Name": "bictegravir, emtricitabine, tenofovir [bik-TEG-ra-vir, EM-trye-SYE-ta-been, and-ten-OF-oh-vir]",
+        "Drug Class": "Antiviral combinations"
+    },
+    {
+        "Drug Name": "Biotin",
+        "Generic Name": "Appearex",
+        "Drug Class": "Vitamins"
+    },
+    {
+        "Drug Name": "Bisacodyl: Package Insert / Prescribing Info",
+        "Generic Name": null,
+        "Drug Class": "Laxatives"
+    },
+    {
+        "Drug Name": "Bismuth subsalicylate",
+        "Generic Name": "Bismarex",
+        "Drug Class": "Antidiarrheals"
+    },
+    {
+        "Drug Name": "Bisoprolol",
+        "Generic Name": "Zebeta",
+        "Drug Class": "Cardioselective beta blockers"
+    },
+    {
+        "Drug Name": "Blincyto",
+        "Generic Name": "blinatumomab",
+        "Drug Class": "Bispecific T-cell engagers (BiTE)"
+    },
+    {
+        "Drug Name": "Boniva",
+        "Generic Name": "ibandronate",
+        "Drug Class": "Bisphosphonates"
+    },
+    {
+        "Drug Name": "Botox",
+        "Generic Name": "onabotulinumtoxinA",
+        "Drug Class": "Skeletal muscle relaxants"
+    },
+    {
+        "Drug Name": "Breo Ellipta",
+        "Generic Name": "fluticasone and vilanterol",
+        "Drug Class": "Bronchodilator combinations"
+    },
+    {
+        "Drug Name": "Brexpiprazole",
+        "Generic Name": "Rexulti",
+        "Drug Class": "Atypical antipsychotics"
+    },
+    {
+        "Drug Name": "Breyanzi",
+        "Generic Name": "lisocabtagene maraleucel",
+        "Drug Class": "Miscellaneous antineoplastics"
+    },
+    {
+        "Drug Name": "Breyna: Package Insert / Prescribing Info",
+        "Generic Name": "budesonide and formoterol fumarate",
+        "Drug Class": "Bronchodilator combinations"
+    },
+    {
+        "Drug Name": "Breztri",
+        "Generic Name": "budesonide, glycopyrrolate, and formoterol fumarate",
+        "Drug Class": "Bronchodilator combinations"
+    },
+    {
+        "Drug Name": "Brilinta",
+        "Generic Name": "ticagrelor",
+        "Drug Class": "Platelet aggregation inhibitors"
+    },
+    {
+        "Drug Name": "Brimonidine: Package Insert / Prescribing Info",
+        "Generic Name": "Ophthalmic glaucoma agents",
+        "Drug Class": "Ophthalmic glaucoma agents"
+    },
+    {
+        "Drug Name": "Briumvi",
+        "Generic Name": "ublituximab",
+        "Drug Class": "CD20 monoclonal antibodies"
+    },
+    {
+        "Drug Name": "Briviact",
+        "Generic Name": "brivaracetam",
+        "Drug Class": "Pyrrolidine anticonvulsants"
+    },
+    {
+        "Drug Name": "Bromfed DM: Package Insert / Prescribing Info",
+        "Generic Name": "brompheniramine maleate, pseudoephedrine hydrochloride and dextromethorphan hydrobromide",
+        "Drug Class": "Upper respiratory combinations"
+    },
+    {
+        "Drug Name": "Brompheniramine, dextromethorphan, and pseudoephedrine",
+        "Generic Name": "BroveX PSE DM",
+        "Drug Class": "Upper respiratory combinations"
+    },
+    {
+        "Drug Name": "Brukinsa",
+        "Generic Name": "zanubrutinib",
+        "Drug Class": "BTK inhibitors"
+    },
+    {
+        "Drug Name": "Bryhali",
+        "Generic Name": "halobetasol propionate 0.01%",
+        "Drug Class": "Topical steroids"
+    },
+    {
+        "Drug Name": "Budesonide",
+        "Generic Name": "Eohilia",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Budesonide and formoterol (Inhalation)",
+        "Generic Name": "Symbicort",
+        "Drug Class": "Bronchodilator combinations"
+    },
+    {
+        "Drug Name": "Bumetanide: Package Insert / Prescribing Info",
+        "Generic Name": null,
+        "Drug Class": "Loop diuretics"
+    },
+    {
+        "Drug Name": "Bumex: Package Insert / Prescribing Info",
+        "Generic Name": "bumetanide",
+        "Drug Class": "Loop diuretics"
+    },
+    {
+        "Drug Name": "Bunavail",
+        "Generic Name": "buprenorphine and naloxone",
+        "Drug Class": "Narcotic analgesic combinations"
+    },
+    {
+        "Drug Name": "Buprenex Injection",
+        "Generic Name": "buprenorphine injection",
+        "Drug Class": "Opioids (narcotic analgesics)"
+    },
+    {
+        "Drug Name": "Buprenorphine",
+        "Generic Name": "Opioids (narcotic analgesics)",
+        "Drug Class": "Opioids (narcotic analgesics)"
+    },
+    {
+        "Drug Name": "Buprenorphine/naloxone (Oromucosal, Sublingual)",
+        "Generic Name": "Cassipa",
+        "Drug Class": "Narcotic analgesic combinations"
+    },
+    {
+        "Drug Name": "Bupropion",
+        "Generic Name": "Wellbutrin",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "BuSpar",
+        "Generic Name": "buspirone",
+        "Drug Class": "Miscellaneous anxiolytics, sedatives and hypnotics"
+    },
+    {
+        "Drug Name": "Buspirone",
+        "Generic Name": "BuSpar",
+        "Drug Class": "Miscellaneous anxiolytics, sedatives and hypnotics"
+    },
+    {
+        "Drug Name": "Bystolic",
+        "Generic Name": "nebivolol",
+        "Drug Class": "Cardioselective beta blockers"
+    },
+    {
+        "Drug Name": "Cabenuva",
+        "Generic Name": "cabotegravir and rilpivirine [ KA-boe-TEG-ra-vir-and-RIL-pi-VIR-een ]",
+        "Drug Class": "Antiviral combinations"
+    },
+    {
+        "Drug Name": "Cabometyx",
+        "Generic Name": "cabozantinib",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Calcitriol",
+        "Generic Name": "Rocaltrol",
+        "Drug Class": "Vitamins"
+    },
+    {
+        "Drug Name": "Calcium carbonate",
+        "Generic Name": "Alka-Mints",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Calquence",
+        "Generic Name": "acalabrutinib",
+        "Drug Class": "BTK inhibitors"
+    },
+    {
+        "Drug Name": "Camzyos",
+        "Generic Name": "mavacamten",
+        "Drug Class": "Miscellaneous cardiovascular agents"
+    },
+    {
+        "Drug Name": "Canasa",
+        "Generic Name": "mesalamine",
+        "Drug Class": "5-aminosalicylates"
+    },
+    {
+        "Drug Name": "Candesartan",
+        "Generic Name": "Atacand",
+        "Drug Class": "Angiotensin receptor blockers"
+    },
+    {
+        "Drug Name": "Caplyta",
+        "Generic Name": "lumateperone",
+        "Drug Class": "Atypical antipsychotics"
+    },
+    {
+        "Drug Name": "Captopril",
+        "Generic Name": "Capoten",
+        "Drug Class": "Angiotensin Converting Enzyme Inhibitors"
+    },
+    {
+        "Drug Name": "Carbamazepine",
+        "Generic Name": "Epitol",
+        "Drug Class": "Dibenzazepine anticonvulsants"
+    },
+    {
+        "Drug Name": "Carbidopa and levodopa",
+        "Generic Name": "Crexont",
+        "Drug Class": "Dopaminergic antiparkinsonism agents"
+    },
+    {
+        "Drug Name": "Carvedilol",
+        "Generic Name": "Coreg",
+        "Drug Class": "Non-cardioselective beta blockers"
+    },
+    {
+        "Drug Name": "Carvykti",
+        "Generic Name": "ciltacabtagene autoleucel",
+        "Drug Class": "Miscellaneous antineoplastics"
+    },
+    {
+        "Drug Name": "Casodex",
+        "Generic Name": "bicalutamide",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Cefdinir",
+        "Generic Name": "Omnicef Omni-Pac",
+        "Drug Class": "Third generation cephalosporins"
+    },
+    {
+        "Drug Name": "Cefixime",
+        "Generic Name": "Suprax",
+        "Drug Class": "Third generation cephalosporins"
+    },
+    {
+        "Drug Name": "Ceftriaxone: Package Insert / Prescribing Info",
+        "Generic Name": null,
+        "Drug Class": "Third generation cephalosporins"
+    },
+    {
+        "Drug Name": "Cefuroxime (Monograph)",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Celebrex",
+        "Generic Name": "celecoxib",
+        "Drug Class": "Cox-2 inhibitors"
+    },
+    {
+        "Drug Name": "Celecoxib",
+        "Generic Name": "CeleBREX",
+        "Drug Class": "Cox-2 inhibitors"
+    },
+    {
+        "Drug Name": "Celexa",
+        "Generic Name": "citalopram",
+        "Drug Class": "Selective serotonin reuptake inhibitors"
+    },
+    {
+        "Drug Name": "Cephalexin",
+        "Generic Name": "Keflex",
+        "Drug Class": "First generation cephalosporins"
+    },
+    {
+        "Drug Name": "Cequa Eye Drops",
+        "Generic Name": "cyclosporine ophthalmic",
+        "Drug Class": "Miscellaneous ophthalmic agents"
+    },
+    {
+        "Drug Name": "Cetirizine",
+        "Generic Name": "Zyrtec",
+        "Drug Class": "Antihistamines"
+    },
+    {
+        "Drug Name": "Chlorpheniramine",
+        "Generic Name": "Aller-Chlor",
+        "Drug Class": "Antihistamines"
+    },
+    {
+        "Drug Name": "Chlorthalidone",
+        "Generic Name": "Thalitone",
+        "Drug Class": "Thiazide diuretics"
+    },
+    {
+        "Drug Name": "Cholecalciferol",
+        "Generic Name": "Carlson D",
+        "Drug Class": "Vitamins"
+    },
+    {
+        "Drug Name": "Cialis",
+        "Generic Name": "tadalafil",
+        "Drug Class": "Impotence agents"
+    },
+    {
+        "Drug Name": "Cilostazol",
+        "Generic Name": "Pletal",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Cimzia",
+        "Generic Name": "certolizumab",
+        "Drug Class": "TNF alfa inhibitors"
+    },
+    {
+        "Drug Name": "Cinryze",
+        "Generic Name": "complement C1 esterase inhibitor",
+        "Drug Class": "Hereditary angioedema agents"
+    },
+    {
+        "Drug Name": "Cipro",
+        "Generic Name": "ciprofloxacin",
+        "Drug Class": "Quinolones and fluoroquinolones"
+    },
+    {
+        "Drug Name": "Ciprofloxacin",
+        "Generic Name": "Cipro",
+        "Drug Class": "Quinolones and fluoroquinolones"
+    },
+    {
+        "Drug Name": "Citalopram",
+        "Generic Name": "CeleXA",
+        "Drug Class": "Selective serotonin reuptake inhibitors"
+    },
+    {
+        "Drug Name": "Clarithromycin",
+        "Generic Name": "Biaxin",
+        "Drug Class": "Macrolides"
+    },
+    {
+        "Drug Name": "Claritin",
+        "Generic Name": "loratadine",
+        "Drug Class": "Antihistamines"
+    },
+    {
+        "Drug Name": "Clindamycin",
+        "Generic Name": "Cleocin HCl",
+        "Drug Class": "Lincomycin derivatives"
+    },
+    {
+        "Drug Name": "Clobetasol",
+        "Generic Name": "Clobex",
+        "Drug Class": "Topical steroids"
+    },
+    {
+        "Drug Name": "Clobex",
+        "Generic Name": "clobetasol topical",
+        "Drug Class": "Topical steroids"
+    },
+    {
+        "Drug Name": "Clodan",
+        "Generic Name": "clobetasol topical",
+        "Drug Class": "Topical steroids"
+    },
+    {
+        "Drug Name": "Clonazepam",
+        "Generic Name": "KlonoPIN",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Clonidine",
+        "Generic Name": "Catapres",
+        "Drug Class": "Antiadrenergic agents, centrally acting"
+    },
+    {
+        "Drug Name": "Clopidogrel",
+        "Generic Name": "Plavix",
+        "Drug Class": "Platelet aggregation inhibitors"
+    },
+    {
+        "Drug Name": "Clotrimazole",
+        "Generic Name": "Mycelex Troche",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Codeine",
+        "Generic Name": "Antitussives",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Colace",
+        "Generic Name": "docusate",
+        "Drug Class": "Laxatives"
+    },
+    {
+        "Drug Name": "Colazal",
+        "Generic Name": "balsalazide",
+        "Drug Class": "5-aminosalicylates"
+    },
+    {
+        "Drug Name": "Colchicine",
+        "Generic Name": "Colcrys",
+        "Drug Class": "Antigout agents"
+    },
+    {
+        "Drug Name": "Coreg",
+        "Generic Name": "carvedilol",
+        "Drug Class": "Non-cardioselective beta blockers"
+    },
+    {
+        "Drug Name": "Cosentyx",
+        "Generic Name": "secukinumab",
+        "Drug Class": "Interleukin inhibitors"
+    },
+    {
+        "Drug Name": "Coumadin",
+        "Generic Name": "warfarin",
+        "Drug Class": "Coumarins and indandiones"
+    },
+    {
+        "Drug Name": "Crestor",
+        "Generic Name": "rosuvastatin",
+        "Drug Class": "Statins"
+    },
+    {
+        "Drug Name": "Cyanocobalamin",
+        "Generic Name": "... show all 8 dosage forms",
+        "Drug Class": "Vitamins"
+    },
+    {
+        "Drug Name": "Cyclobenzaprine",
+        "Generic Name": "Amrix",
+        "Drug Class": "Skeletal muscle relaxants"
+    },
+    {
+        "Drug Name": "Cymbalta",
+        "Generic Name": "duloxetine",
+        "Drug Class": "Serotonin-norepinephrine reuptake inhibitors"
+    },
+    {
+        "Drug Name": "Dabigatran",
+        "Generic Name": "Pradaxa",
+        "Drug Class": "Thrombin inhibitors"
+    },
+    {
+        "Drug Name": "Dapagliflozin",
+        "Generic Name": "Farxiga",
+        "Drug Class": "SGLT-2 inhibitors"
+    },
+    {
+        "Drug Name": "Darzalex",
+        "Generic Name": "daratumumab",
+        "Drug Class": "CD38 monoclonal antibodies"
+    },
+    {
+        "Drug Name": "Dayvigo",
+        "Generic Name": "lemborexant",
+        "Drug Class": "Miscellaneous anxiolytics, sedatives and hypnotics"
+    },
+    {
+        "Drug Name": "Decadron",
+        "Generic Name": "dexamethasone",
+        "Drug Class": "Glucocorticoids"
+    },
+    {
+        "Drug Name": "Degarelix",
+        "Generic Name": "Firmagon",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Delzicol",
+        "Generic Name": "mesalamine",
+        "Drug Class": "5-aminosalicylates"
+    },
+    {
+        "Drug Name": "Denosumab",
+        "Generic Name": "Prolia",
+        "Drug Class": "Miscellaneous bone resorption inhibitors"
+    },
+    {
+        "Drug Name": "Depakote",
+        "Generic Name": "divalproex sodium",
+        "Drug Class": "Fatty acid derivative anticonvulsants"
+    },
+    {
+        "Drug Name": "Descovy",
+        "Generic Name": "emtricitabine and tenofovir alafenamide",
+        "Drug Class": "Antiviral combinations"
+    },
+    {
+        "Drug Name": "Desloratadine",
+        "Generic Name": "Clarinex",
+        "Drug Class": "Antihistamines"
+    },
+    {
+        "Drug Name": "Desmopressin",
+        "Generic Name": "DDAVP",
+        "Drug Class": "Antidiuretic hormones"
+    },
+    {
+        "Drug Name": "Desvenlafaxine",
+        "Generic Name": "Pristiq",
+        "Drug Class": "Serotonin-norepinephrine reuptake inhibitors"
+    },
+    {
+        "Drug Name": "Desyrel",
+        "Generic Name": "trazodone",
+        "Drug Class": "Phenylpiperazine antidepressants"
+    },
+    {
+        "Drug Name": "Dexamethasone",
+        "Generic Name": "Decadron",
+        "Drug Class": "Glucocorticoids"
+    },
+    {
+        "Drug Name": "Dexamethasone Intensol",
+        "Generic Name": "dexamethasone",
+        "Drug Class": "Glucocorticoids"
+    },
+    {
+        "Drug Name": "Dexilant",
+        "Generic Name": "dexlansoprazole",
+        "Drug Class": "Proton pump inhibitors"
+    },
+    {
+        "Drug Name": "Dextroamphetamine",
+        "Generic Name": "ProCentra",
+        "Drug Class": "CNS stimulants"
+    },
+    {
+        "Drug Name": "Dextromethorphan",
+        "Generic Name": "Babee Cof",
+        "Drug Class": "Antitussives"
+    },
+    {
+        "Drug Name": "Dextrose",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Diacomit",
+        "Generic Name": "stiripentol",
+        "Drug Class": "Gamma-aminobutyric acid reuptake inhibitors"
+    },
+    {
+        "Drug Name": "Diastat AcuDial",
+        "Generic Name": "diazepam",
+        "Drug Class": "Benzodiazepine anticonvulsants"
+    },
+    {
+        "Drug Name": "Diazepam",
+        "Generic Name": "Valium",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Diclofenac",
+        "Generic Name": "Cambia",
+        "Drug Class": "Nonsteroidal anti-inflammatory drugs"
+    },
+    {
+        "Drug Name": "Dicyclomine",
+        "Generic Name": "Bentyl",
+        "Drug Class": "Anticholinergics / antispasmodics"
+    },
+    {
+        "Drug Name": "Diflucan",
+        "Generic Name": "fluconazole",
+        "Drug Class": "Azole antifungals"
+    },
+    {
+        "Drug Name": "Digoxin",
+        "Generic Name": "Digitek",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Dilantin",
+        "Generic Name": "phenytoin",
+        "Drug Class": "Hydantoin anticonvulsants"
+    },
+    {
+        "Drug Name": "Dilaudid",
+        "Generic Name": "hydromorphone",
+        "Drug Class": "Opioids (narcotic analgesics)"
+    },
+    {
+        "Drug Name": "Diltiazem",
+        "Generic Name": "Cardizem",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Diovan",
+        "Generic Name": "valsartan",
+        "Drug Class": "Angiotensin receptor blockers"
+    },
+    {
+        "Drug Name": "Dipentum",
+        "Generic Name": "olsalazine",
+        "Drug Class": "5-aminosalicylates"
+    },
+    {
+        "Drug Name": "Diphenhydramine",
+        "Generic Name": "Allermax",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Diprolene",
+        "Generic Name": "betamethasone topical",
+        "Drug Class": "Topical steroids"
+    },
+    {
+        "Drug Name": "Divalproex: Package Insert / Prescribing Info",
+        "Generic Name": "Fatty acid derivative anticonvulsants",
+        "Drug Class": "Fatty acid derivative anticonvulsants"
+    },
+    {
+        "Drug Name": "Divalproex sodium",
+        "Generic Name": "Depakote",
+        "Drug Class": "Fatty acid derivative anticonvulsants"
+    },
+    {
+        "Drug Name": "Docusate Sodium: Package Insert / Prescribing Info",
+        "Generic Name": null,
+        "Drug Class": "Laxatives"
+    },
+    {
+        "Drug Name": "Domperidone",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Donepezil",
+        "Generic Name": "Aricept",
+        "Drug Class": "Cholinesterase inhibitors"
+    },
+    {
+        "Drug Name": "Doxazosin",
+        "Generic Name": "Cardura",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Doxepin: Package Insert / Prescribing Info",
+        "Generic Name": "Miscellaneous anxiolytics, sedatives and hypnotics",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Doxycycline",
+        "Generic Name": "Acticlate",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Doxycycline Hyclate: Package Insert / Prescribing Info",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Dulaglutide",
+        "Generic Name": "Trulicity",
+        "Drug Class": "Incretin Mimetics (GLP-1 Agonists)"
+    },
+    {
+        "Drug Name": "Dulcolax Laxative",
+        "Generic Name": "bisacodyl",
+        "Drug Class": "Laxatives"
+    },
+    {
+        "Drug Name": "Duloxetine",
+        "Generic Name": "Cymbalta",
+        "Drug Class": "Serotonin-norepinephrine reuptake inhibitors"
+    },
+    {
+        "Drug Name": "DuoNeb",
+        "Generic Name": "albuterol and ipratropium",
+        "Drug Class": "Bronchodilator combinations"
+    },
+    {
+        "Drug Name": "Duopa",
+        "Generic Name": "carbidopa and levodopa enteral",
+        "Drug Class": "Dopaminergic antiparkinsonism agents"
+    },
+    {
+        "Drug Name": "Dupixent",
+        "Generic Name": "dupilumab",
+        "Drug Class": "Interleukin inhibitors"
+    },
+    {
+        "Drug Name": "Dutasteride",
+        "Generic Name": "Avodart",
+        "Drug Class": "5-alpha-reductase inhibitors"
+    },
+    {
+        "Drug Name": "Ecotrin",
+        "Generic Name": "aspirin",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Effexor: Package Insert / Prescribing Info",
+        "Generic Name": "venlafaxine hydrochloride",
+        "Drug Class": "Serotonin-norepinephrine reuptake inhibitors"
+    },
+    {
+        "Drug Name": "Effexor",
+        "Generic Name": "venlafaxine",
+        "Drug Class": "Serotonin-norepinephrine reuptake inhibitors"
+    },
+    {
+        "Drug Name": "Elagolix",
+        "Generic Name": "Orilissa",
+        "Drug Class": "Gonadotropin-releasing hormone antagonists"
+    },
+    {
+        "Drug Name": "Elavil",
+        "Generic Name": "amitriptyline",
+        "Drug Class": "Tricyclic antidepressants"
+    },
+    {
+        "Drug Name": "Eligard",
+        "Generic Name": "leuprolide",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Eliquis",
+        "Generic Name": "apixaban",
+        "Drug Class": "Factor Xa inhibitors"
+    },
+    {
+        "Drug Name": "Emgality",
+        "Generic Name": "galcanezumab",
+        "Drug Class": "CGRP inhibitors"
+    },
+    {
+        "Drug Name": "Empagliflozin",
+        "Generic Name": "Jardiance",
+        "Drug Class": "SGLT-2 inhibitors"
+    },
+    {
+        "Drug Name": "Empaveli",
+        "Generic Name": "pegcetacoplan",
+        "Drug Class": "Selective immunosuppressants"
+    },
+    {
+        "Drug Name": "Enalapril",
+        "Generic Name": "Epaned",
+        "Drug Class": "Angiotensin Converting Enzyme Inhibitors"
+    },
+    {
+        "Drug Name": "Enbrel",
+        "Generic Name": "etanercept",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Enhertu",
+        "Generic Name": "fam-trastuzumab deruxtecan",
+        "Drug Class": "HER2 inhibitors"
+    },
+    {
+        "Drug Name": "Enoxaparin",
+        "Generic Name": "Lovenox",
+        "Drug Class": "Heparins"
+    },
+    {
+        "Drug Name": "Entecavir",
+        "Generic Name": "Baraclude",
+        "Drug Class": "Nucleoside reverse transcriptase inhibitors (NRTIs)"
+    },
+    {
+        "Drug Name": "Entresto",
+        "Generic Name": "sacubitril and valsartan",
+        "Drug Class": "Angiotensin receptor blockers and neprilysin inhibitors"
+    },
+    {
+        "Drug Name": "Entyvio",
+        "Generic Name": "vedolizumab",
+        "Drug Class": "Selective immunosuppressants"
+    },
+    {
+        "Drug Name": "Enzalutamide",
+        "Generic Name": "Xtandi",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Epclusa",
+        "Generic Name": "sofosbuvir/velpatasvir",
+        "Drug Class": "Antiviral combinations"
+    },
+    {
+        "Drug Name": "Epidiolex",
+        "Generic Name": "cannabidiol",
+        "Drug Class": "Miscellaneous anticonvulsants"
+    },
+    {
+        "Drug Name": "Epinephrine (Monograph)",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "EpiPen",
+        "Generic Name": "epinephrine injection",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Eplerenone",
+        "Generic Name": "Inspra",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Epoetin alfa",
+        "Generic Name": "Epogen",
+        "Drug Class": "Recombinant human erythropoietins"
+    },
+    {
+        "Drug Name": "Ergocalciferol",
+        "Generic Name": "Calcidol",
+        "Drug Class": "Vitamins"
+    },
+    {
+        "Drug Name": "Erleada",
+        "Generic Name": "apalutamide",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Ertapenem",
+        "Generic Name": "Invanz",
+        "Drug Class": "Carbapenems"
+    },
+    {
+        "Drug Name": "Erythromycin",
+        "Generic Name": "E.E.S. Granules",
+        "Drug Class": "Macrolides"
+    },
+    {
+        "Drug Name": "Escitalopram",
+        "Generic Name": "Lexapro",
+        "Drug Class": "Selective serotonin reuptake inhibitors"
+    },
+    {
+        "Drug Name": "Esomeprazole",
+        "Generic Name": "NexIUM",
+        "Drug Class": "Proton pump inhibitors"
+    },
+    {
+        "Drug Name": "Estrace",
+        "Generic Name": "estradiol oral",
+        "Drug Class": "Estrogens"
+    },
+    {
+        "Drug Name": "Estradiol",
+        "Generic Name": "Estrace",
+        "Drug Class": "Estrogens"
+    },
+    {
+        "Drug Name": "Eszopiclone",
+        "Generic Name": "Lunesta",
+        "Drug Class": "Miscellaneous anxiolytics, sedatives and hypnotics"
+    },
+    {
+        "Drug Name": "Etanercept",
+        "Generic Name": "Enbrel",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Ethambutol",
+        "Generic Name": "Myambutol",
+        "Drug Class": "Miscellaneous antituberculosis agents"
+    },
+    {
+        "Drug Name": "Etodolac",
+        "Generic Name": "Lodine",
+        "Drug Class": "Nonsteroidal anti-inflammatory drugs"
+    },
+    {
+        "Drug Name": "Eulexin (Oral)",
+        "Generic Name": "flutamide",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Euthyrox",
+        "Generic Name": "levothyroxine",
+        "Drug Class": "Thyroid drugs"
+    },
+    {
+        "Drug Name": "Evenity",
+        "Generic Name": "romosozumab [ ROE-moe-SOZ-ue-mab ]",
+        "Drug Class": "Miscellaneous bone resorption inhibitors"
+    },
+    {
+        "Drug Name": "Everolimus",
+        "Generic Name": "Afinitor",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Evista",
+        "Generic Name": "raloxifene",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Evkeeza",
+        "Generic Name": "evinacumab-(E vin AK ue mab)",
+        "Drug Class": "Miscellaneous antihyperlipidemic agents"
+    },
+    {
+        "Drug Name": "Evolocumab",
+        "Generic Name": "Repatha",
+        "Drug Class": "PCSK9 inhibitors"
+    },
+    {
+        "Drug Name": "Evusheld",
+        "Generic Name": "tixagevimab and cilgavimab",
+        "Drug Class": "Antiviral combinations"
+    },
+    {
+        "Drug Name": "Excedrin",
+        "Generic Name": "acetaminophen, aspirin, and caffeine",
+        "Drug Class": "Analgesic combinations"
+    },
+    {
+        "Drug Name": "Exemestane",
+        "Generic Name": "Aromasin",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Extavia",
+        "Generic Name": "interferon beta-1b",
+        "Drug Class": "Interferons"
+    },
+    {
+        "Drug Name": "Eysuvis",
+        "Generic Name": "loteprednol etabonate",
+        "Drug Class": "Ophthalmic steroids"
+    },
+    {
+        "Drug Name": "Ezetimibe",
+        "Generic Name": "Zetia",
+        "Drug Class": "Cholesterol absorption inhibitors"
+    },
+    {
+        "Drug Name": "Ezetimibe and rosuvastatin",
+        "Generic Name": "Roszet",
+        "Drug Class": "Antihyperlipidemic combinations"
+    },
+    {
+        "Drug Name": "Famotidine",
+        "Generic Name": "Pepcid",
+        "Drug Class": "H2 antagonists"
+    },
+    {
+        "Drug Name": "Farxiga",
+        "Generic Name": "dapagliflozin",
+        "Drug Class": "SGLT-2 inhibitors"
+    },
+    {
+        "Drug Name": "Fasenra",
+        "Generic Name": "benralizumab",
+        "Drug Class": "Interleukin inhibitors"
+    },
+    {
+        "Drug Name": "Faslodex",
+        "Generic Name": "fulvestrant",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Febuxostat",
+        "Generic Name": "Uloric",
+        "Drug Class": "Antihyperuricemic agents"
+    },
+    {
+        "Drug Name": "Felodipine",
+        "Generic Name": "Plendil",
+        "Drug Class": "Calcium channel blockers"
+    },
+    {
+        "Drug Name": "Femara",
+        "Generic Name": "letrozole",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Fenofibrate",
+        "Generic Name": "Antara",
+        "Drug Class": "Fibric acid derivatives"
+    },
+    {
+        "Drug Name": "Fentanyl",
+        "Generic Name": "Actiq",
+        "Drug Class": "Opioids (narcotic analgesics)"
+    },
+    {
+        "Drug Name": "FeroSul",
+        "Generic Name": "ferrous sulfate",
+        "Drug Class": "Iron products"
+    },
+    {
+        "Drug Name": "Ferrous gluconate",
+        "Generic Name": "Fergon",
+        "Drug Class": "Iron products"
+    },
+    {
+        "Drug Name": "Ferrous sulfate",
+        "Generic Name": "Fer-In-Sol",
+        "Drug Class": "Iron products"
+    },
+    {
+        "Drug Name": "Fexofenadine",
+        "Generic Name": "Allegra Allergy",
+        "Drug Class": "Antihistamines"
+    },
+    {
+        "Drug Name": "Finasteride",
+        "Generic Name": null,
+        "Drug Class": "5-alpha-reductase inhibitors"
+    },
+    {
+        "Drug Name": "Fingolimod",
+        "Generic Name": "Gilenya",
+        "Drug Class": "Selective immunosuppressants"
+    },
+    {
+        "Drug Name": "Fintepla",
+        "Generic Name": "fenfluramine",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Fioricet",
+        "Generic Name": "acetaminophen, butalbital, and caffeine",
+        "Drug Class": "Analgesic combinations"
+    },
+    {
+        "Drug Name": "Firazyr",
+        "Generic Name": "icatibant",
+        "Drug Class": "Hereditary angioedema agents"
+    },
+    {
+        "Drug Name": "Firmagon",
+        "Generic Name": "degarelix",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Fish Oil",
+        "Generic Name": "omega-3 polyunsaturated fatty acids",
+        "Drug Class": "Nutraceutical products"
+    },
+    {
+        "Drug Name": "Flagyl",
+        "Generic Name": "metronidazole",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Flecainide",
+        "Generic Name": "Tambocor",
+        "Drug Class": "Group I antiarrhythmics"
+    },
+    {
+        "Drug Name": "Flexeril",
+        "Generic Name": "cyclobenzaprine",
+        "Drug Class": "Skeletal muscle relaxants"
+    },
+    {
+        "Drug Name": "Flomax",
+        "Generic Name": "tamsulosin",
+        "Drug Class": "Alpha blockers"
+    },
+    {
+        "Drug Name": "Flonase Nasal Spray",
+        "Generic Name": "fluticasone nasal",
+        "Drug Class": "Nasal steroids"
+    },
+    {
+        "Drug Name": "Florastor",
+        "Generic Name": "saccharomyces boulardii lyo",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Flovent",
+        "Generic Name": "fluticasone inhalation",
+        "Drug Class": "Inhaled corticosteroids"
+    },
+    {
+        "Drug Name": "Flovent HFA",
+        "Generic Name": "fluticasone inhalation",
+        "Drug Class": "Inhaled corticosteroids"
+    },
+    {
+        "Drug Name": "Fluconazole",
+        "Generic Name": "Diflucan",
+        "Drug Class": "Azole antifungals"
+    },
+    {
+        "Drug Name": "Fludrocortisone",
+        "Generic Name": "Florinef Acetate",
+        "Drug Class": "Mineralocorticoids"
+    },
+    {
+        "Drug Name": "FluMist",
+        "Generic Name": "influenza virus vaccine",
+        "Drug Class": "Viral vaccines"
+    },
+    {
+        "Drug Name": "Fluocinonide",
+        "Generic Name": "Vanos",
+        "Drug Class": "Topical steroids"
+    },
+    {
+        "Drug Name": "Fluorouracil (Monograph)",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Fluoxetine",
+        "Generic Name": "Prozac",
+        "Drug Class": "Selective serotonin reuptake inhibitors"
+    },
+    {
+        "Drug Name": "Fluphenazine",
+        "Generic Name": "Prolixin",
+        "Drug Class": "Phenothiazine antipsychotics"
+    },
+    {
+        "Drug Name": "Flutamide",
+        "Generic Name": "Eulexin",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Fluticasone: Package Insert / Prescribing Info",
+        "Generic Name": "Topical steroids",
+        "Drug Class": "Topical steroids"
+    },
+    {
+        "Drug Name": "Fluticasone and salmeterol",
+        "Generic Name": "Advair Diskus",
+        "Drug Class": "Bronchodilator combinations"
+    },
+    {
+        "Drug Name": "Fluticasone nasal",
+        "Generic Name": "Flonase Allergy Relief",
+        "Drug Class": "Nasal steroids"
+    },
+    {
+        "Drug Name": "Fluvoxamine",
+        "Generic Name": "Luvox",
+        "Drug Class": "Selective serotonin reuptake inhibitors"
+    },
+    {
+        "Drug Name": "Focalin",
+        "Generic Name": "dexmethylphenidate",
+        "Drug Class": "CNS stimulants"
+    },
+    {
+        "Drug Name": "Folic acid",
+        "Generic Name": "FA-8",
+        "Drug Class": "Vitamins"
+    },
+    {
+        "Drug Name": "Formoterol (Inhalation)",
+        "Generic Name": "Foradil Aerolizer",
+        "Drug Class": "Adrenergic bronchodilators"
+    },
+    {
+        "Drug Name": "Forteo",
+        "Generic Name": "teriparatide",
+        "Drug Class": "Parathyroid hormone and analogs"
+    },
+    {
+        "Drug Name": "Fosamax",
+        "Generic Name": "alendronate",
+        "Drug Class": "Bisphosphonates"
+    },
+    {
+        "Drug Name": "Fosfomycin",
+        "Generic Name": "Monurol",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Fulvestrant",
+        "Generic Name": "Faslodex",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Furosemide",
+        "Generic Name": "Lasix",
+        "Drug Class": "Loop diuretics"
+    },
+    {
+        "Drug Name": "Fycompa",
+        "Generic Name": "perampanel",
+        "Drug Class": "AMPA receptor antagonists"
+    },
+    {
+        "Drug Name": "Gabapentin",
+        "Generic Name": "Gralise",
+        "Drug Class": "Gamma-aminobutyric acid analogs"
+    },
+    {
+        "Drug Name": "Gabapentin enacarbil (Oral)",
+        "Generic Name": "Horizant",
+        "Drug Class": "Gamma-aminobutyric acid analogs"
+    },
+    {
+        "Drug Name": "Galantamine",
+        "Generic Name": "Reminyl",
+        "Drug Class": "Cholinesterase inhibitors"
+    },
+    {
+        "Drug Name": "Galcanezumab",
+        "Generic Name": null,
+        "Drug Class": "CGRP inhibitors"
+    },
+    {
+        "Drug Name": "Garlic",
+        "Generic Name": "Herbal products",
+        "Drug Class": "Herbal products"
+    },
+    {
+        "Drug Name": "Gas-X",
+        "Generic Name": "simethicone",
+        "Drug Class": "Miscellaneous GI agents"
+    },
+    {
+        "Drug Name": "GaviLyte G: Package Insert / Prescribing Info",
+        "Generic Name": "polyethylene glycol-3350 and electrolytes",
+        "Drug Class": "Laxatives"
+    },
+    {
+        "Drug Name": "Gaviscon",
+        "Generic Name": "aluminum hydroxide and magnesium trisilicate",
+        "Drug Class": "Antacids"
+    },
+    {
+        "Drug Name": "Gavreto",
+        "Generic Name": "pralsetinib",
+        "Drug Class": "Multikinase inhibitors"
+    },
+    {
+        "Drug Name": "Gazyva",
+        "Generic Name": "obinutuzumab",
+        "Drug Class": "CD20 monoclonal antibodies"
+    },
+    {
+        "Drug Name": "Gemcitabine",
+        "Generic Name": "Infugem",
+        "Drug Class": "Antimetabolites"
+    },
+    {
+        "Drug Name": "Gemfibrozil",
+        "Generic Name": "Lopid",
+        "Drug Class": "Fibric acid derivatives"
+    },
+    {
+        "Drug Name": "Gemtesa",
+        "Generic Name": "vibegron",
+        "Drug Class": "Urinary antispasmodics"
+    },
+    {
+        "Drug Name": "Genotropin",
+        "Generic Name": "somatropin",
+        "Drug Class": "Growth hormones"
+    },
+    {
+        "Drug Name": "Gentamicin",
+        "Generic Name": "Garamycin",
+        "Drug Class": "Aminoglycosides"
+    },
+    {
+        "Drug Name": "Genvoya",
+        "Generic Name": "cobicistat, elvitegravir, emtricitabine, and tenofovir",
+        "Drug Class": "Antiviral combinations"
+    },
+    {
+        "Drug Name": "Geodon",
+        "Generic Name": "ziprasidone",
+        "Drug Class": "Atypical antipsychotics"
+    },
+    {
+        "Drug Name": "Giazo",
+        "Generic Name": "balsalazide",
+        "Drug Class": "5-aminosalicylates"
+    },
+    {
+        "Drug Name": "Gilenya",
+        "Generic Name": "fingolimod",
+        "Drug Class": "Selective immunosuppressants"
+    },
+    {
+        "Drug Name": "Ginger",
+        "Generic Name": "Ginger Root",
+        "Drug Class": "Herbal products"
+    },
+    {
+        "Drug Name": "Ginkgo Biloba",
+        "Generic Name": "ginkgo",
+        "Drug Class": "Herbal products"
+    },
+    {
+        "Drug Name": "Ginseng",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Glatiramer (Subcutaneous)",
+        "Generic Name": "Copaxone",
+        "Drug Class": "Other immunostimulants"
+    },
+    {
+        "Drug Name": "Gleevec",
+        "Generic Name": "imatinib",
+        "Drug Class": "BCR-ABL tyrosine kinase inhibitors"
+    },
+    {
+        "Drug Name": "Glimepiride",
+        "Generic Name": "Amaryl",
+        "Drug Class": "Sulfonylureas"
+    },
+    {
+        "Drug Name": "Glipizide",
+        "Generic Name": "Glucotrol",
+        "Drug Class": "Sulfonylureas"
+    },
+    {
+        "Drug Name": "Glucagon",
+        "Generic Name": "Glucose elevating agents",
+        "Drug Class": "Glucose elevating agents"
+    },
+    {
+        "Drug Name": "Glucophage",
+        "Generic Name": "metformin",
+        "Drug Class": "Non-sulfonylureas"
+    },
+    {
+        "Drug Name": "Glucosamine",
+        "Generic Name": "Genicin",
+        "Drug Class": "Nutraceutical products"
+    },
+    {
+        "Drug Name": "Glucose",
+        "Generic Name": "Dex4",
+        "Drug Class": "Glucose elevating agents"
+    },
+    {
+        "Drug Name": "Glucotrol",
+        "Generic Name": "glipizide",
+        "Drug Class": "Sulfonylureas"
+    },
+    {
+        "Drug Name": "Glutathione",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Glyburide",
+        "Generic Name": "DiaBeta",
+        "Drug Class": "Sulfonylureas"
+    },
+    {
+        "Drug Name": "Glycerin (Oral)",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "GlycoLax",
+        "Generic Name": "polyethylene glycol 3350",
+        "Drug Class": "Laxatives"
+    },
+    {
+        "Drug Name": "Glycopyrrolate",
+        "Generic Name": "Cuvposa",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Glyxambi",
+        "Generic Name": "empagliflozin and linagliptin",
+        "Drug Class": "Antidiabetic combinations"
+    },
+    {
+        "Drug Name": "Gocovri",
+        "Generic Name": "amantadine",
+        "Drug Class": "Dopaminergic antiparkinsonism agents"
+    },
+    {
+        "Drug Name": "Golimumab",
+        "Generic Name": "Simponi",
+        "Drug Class": "TNF alfa inhibitors"
+    },
+    {
+        "Drug Name": "GoLYTELY",
+        "Generic Name": "polyethylene glycol electrolyte solution",
+        "Drug Class": "Laxatives"
+    },
+    {
+        "Drug Name": "Granisetron",
+        "Generic Name": "5HT3 receptor antagonists",
+        "Drug Class": "5HT3 receptor antagonists"
+    },
+    {
+        "Drug Name": "Griseofulvin",
+        "Generic Name": "Grifulvin V",
+        "Drug Class": "Miscellaneous antifungals"
+    },
+    {
+        "Drug Name": "Guaifenesin",
+        "Generic Name": "Mucinex",
+        "Drug Class": "Expectorants"
+    },
+    {
+        "Drug Name": "Guanfacine",
+        "Generic Name": "Intuniv",
+        "Drug Class": "Antiadrenergic agents, centrally acting"
+    },
+    {
+        "Drug Name": "Gvoke",
+        "Generic Name": "glucagon",
+        "Drug Class": "Glucose elevating agents"
+    },
+    {
+        "Drug Name": "Haegarda",
+        "Generic Name": "c1 esterase inhibitor subcutaneous (human)",
+        "Drug Class": "Hereditary angioedema agents"
+    },
+    {
+        "Drug Name": "Halcion",
+        "Generic Name": "triazolam",
+        "Drug Class": "Benzodiazepines"
+    },
+    {
+        "Drug Name": "Haldol",
+        "Generic Name": "haloperidol",
+        "Drug Class": "Miscellaneous antipsychotic agents"
+    },
+    {
+        "Drug Name": "Haldol Decanoate (Intramuscular)",
+        "Generic Name": "haloperidol",
+        "Drug Class": "Miscellaneous antipsychotic agents"
+    },
+    {
+        "Drug Name": "Halobetasol Topical",
+        "Generic Name": "Bryhali",
+        "Drug Class": "Topical steroids"
+    },
+    {
+        "Drug Name": "Halobetasol Topical",
+        "Generic Name": "Bryhali",
+        "Drug Class": "Topical steroids"
+    },
+    {
+        "Drug Name": "Haloperidol",
+        "Generic Name": "Haldol",
+        "Drug Class": "Miscellaneous antipsychotic agents"
+    },
+    {
+        "Drug Name": "Harvoni",
+        "Generic Name": "ledipasvir and sofosbuvir",
+        "Drug Class": "Antiviral combinations"
+    },
+    {
+        "Drug Name": "Hemgenix",
+        "Generic Name": "etranacogene dezaparvovec-drlb",
+        "Drug Class": "Miscellaneous coagulation modifiers"
+    },
+    {
+        "Drug Name": "Heparin Injection",
+        "Generic Name": "Heparins",
+        "Drug Class": "Heparins"
+    },
+    {
+        "Drug Name": "Heparin Sodium (Monograph)",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Hepatitis B adult vaccine",
+        "Generic Name": "Heplisav-B",
+        "Drug Class": "Viral vaccines"
+    },
+    {
+        "Drug Name": "Herceptin",
+        "Generic Name": "trastuzumab",
+        "Drug Class": "HER2 inhibitors"
+    },
+    {
+        "Drug Name": "Hibiclens",
+        "Generic Name": "chlorhexidine topical",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Hiprex",
+        "Generic Name": "methenamine",
+        "Drug Class": "Urinary anti-infectives"
+    },
+    {
+        "Drug Name": "Histrelin (implant)",
+        "Generic Name": "Supprelin LA",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Hizentra",
+        "Generic Name": "immune globulin",
+        "Drug Class": "Immune globulins"
+    },
+    {
+        "Drug Name": "Humalog",
+        "Generic Name": "insulin lispro",
+        "Drug Class": "Insulin"
+    },
+    {
+        "Drug Name": "Humira",
+        "Generic Name": "adalimumab",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Humulin N",
+        "Generic Name": "insulin isophane",
+        "Drug Class": "Insulin"
+    },
+    {
+        "Drug Name": "Humulin R",
+        "Generic Name": "insulin regular",
+        "Drug Class": "Insulin"
+    },
+    {
+        "Drug Name": "Humulin R (Concentrated) (U-500)",
+        "Generic Name": "insulin regular, concentrated (U-500)",
+        "Drug Class": "Insulin"
+    },
+    {
+        "Drug Name": "Hydralazine",
+        "Generic Name": "Apresoline",
+        "Drug Class": "Vasodilators"
+    },
+    {
+        "Drug Name": "Hydrea",
+        "Generic Name": "hydroxyurea",
+        "Drug Class": "Antimetabolites"
+    },
+    {
+        "Drug Name": "Hydrochlorothiazide",
+        "Generic Name": "Esidrix",
+        "Drug Class": "Thiazide diuretics"
+    },
+    {
+        "Drug Name": "Hydrochlorothiazide and lisinopril",
+        "Generic Name": "Zestoretic",
+        "Drug Class": "ACE inhibitors with thiazides"
+    },
+    {
+        "Drug Name": "Hydrochlorothiazide and losartan",
+        "Generic Name": "Hyzaar",
+        "Drug Class": "Angiotensin II inhibitors with thiazides"
+    },
+    {
+        "Drug Name": "Hydrochlorothiazide and olmesartan",
+        "Generic Name": "Benicar HCT",
+        "Drug Class": "Angiotensin II inhibitors with thiazides"
+    },
+    {
+        "Drug Name": "Hydrochlorothiazide and triamterene",
+        "Generic Name": "Dyazide",
+        "Drug Class": "Potassium sparing diuretics with thiazides"
+    },
+    {
+        "Drug Name": "Hydrochlorothiazide and valsartan",
+        "Generic Name": "Diovan HCT",
+        "Drug Class": "Angiotensin II inhibitors with thiazides"
+    },
+    {
+        "Drug Name": "Hydrocodone",
+        "Generic Name": "Hysingla ER",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Acetaminophen and Hydrocodone",
+        "Generic Name": "Hycet",
+        "Drug Class": "Narcotic analgesic combinations"
+    },
+    {
+        "Drug Name": "Hydrocortisone",
+        "Generic Name": null,
+        "Drug Class": "Topical steroids"
+    },
+    {
+        "Drug Name": "Hydrocortisone (Topical) (Monograph)",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Hydromorphone",
+        "Generic Name": "Dilaudid",
+        "Drug Class": "Opioids (narcotic analgesics)"
+    },
+    {
+        "Drug Name": "Hydroquinone (Monograph)",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Hydroxychloroquine",
+        "Generic Name": "Plaquenil",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Hydroxyurea",
+        "Generic Name": "Droxia",
+        "Drug Class": "Antimetabolites"
+    },
+    {
+        "Drug Name": "Hydroxyzine",
+        "Generic Name": "Vistaril",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Hydroxyzine Pamoate: Package Insert / Prescribing Info",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Hyoscyamine",
+        "Generic Name": "Anaspaz",
+        "Drug Class": "Anticholinergics / antispasmodics"
+    },
+    {
+        "Drug Name": "Hyrimoz (Subcutaneous)",
+        "Generic Name": "adalimumab-adaz",
+        "Drug Class": "TNF alfa inhibitors"
+    },
+    {
+        "Drug Name": "Hytrin",
+        "Generic Name": "terazosin",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Hyzaar",
+        "Generic Name": "hydrochlorothiazide and losartan",
+        "Drug Class": "Angiotensin II inhibitors with thiazides"
+    },
+    {
+        "Drug Name": "Ibandronate (Monograph)",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Ibrance",
+        "Generic Name": "palbociclib",
+        "Drug Class": "CDK 4/6 inhibitors"
+    },
+    {
+        "Drug Name": "Ibu",
+        "Generic Name": "ibuprofen",
+        "Drug Class": "Nonsteroidal anti-inflammatory drugs"
+    },
+    {
+        "Drug Name": "Ibuprofen",
+        "Generic Name": "Advil",
+        "Drug Class": "Nonsteroidal anti-inflammatory drugs"
+    },
+    {
+        "Drug Name": "Iclusig",
+        "Generic Name": "ponatinib",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Icosapent",
+        "Generic Name": "Vascepa",
+        "Drug Class": "Miscellaneous antihyperlipidemic agents"
+    },
+    {
+        "Drug Name": "Idhifa",
+        "Generic Name": "enasidenib",
+        "Drug Class": "Miscellaneous antineoplastics"
+    },
+    {
+        "Drug Name": "Ilumya",
+        "Generic Name": "tildrakizumab",
+        "Drug Class": "Interleukin inhibitors"
+    },
+    {
+        "Drug Name": "Imatinib",
+        "Generic Name": "Gleevec",
+        "Drug Class": "BCR-ABL tyrosine kinase inhibitors"
+    },
+    {
+        "Drug Name": "Imbruvica",
+        "Generic Name": "ibrutinib",
+        "Drug Class": "BTK inhibitors"
+    },
+    {
+        "Drug Name": "Imdur",
+        "Generic Name": "isosorbide mononitrate",
+        "Drug Class": "Antianginal agents"
+    },
+    {
+        "Drug Name": "Imfinzi",
+        "Generic Name": "durvalumab",
+        "Drug Class": "Anti-PD-1 and PD-L1 monoclonal antibodies (immune checkpoint inhibitors)"
+    },
+    {
+        "Drug Name": "Imipramine",
+        "Generic Name": "Tofranil",
+        "Drug Class": "Tricyclic antidepressants"
+    },
+    {
+        "Drug Name": "Imiquimod (Topical)",
+        "Generic Name": "Aldara",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Imitrex",
+        "Generic Name": "sumatriptan",
+        "Drug Class": "Antimigraine agents"
+    },
+    {
+        "Drug Name": "Imodium: Package Insert / Prescribing Info",
+        "Generic Name": "loperamide hydrochloride",
+        "Drug Class": "Antidiarrheals"
+    },
+    {
+        "Drug Name": "Impoyz cream",
+        "Generic Name": "clobetasol propionate 0.025%",
+        "Drug Class": "Topical steroids"
+    },
+    {
+        "Drug Name": "Imuran",
+        "Generic Name": "azathioprine",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Inbrija",
+        "Generic Name": "levodopa inhalation capsules",
+        "Drug Class": "Dopaminergic antiparkinsonism agents"
+    },
+    {
+        "Drug Name": "Incruse Ellipta",
+        "Generic Name": "umeclidinium",
+        "Drug Class": "Anticholinergic bronchodilators"
+    },
+    {
+        "Drug Name": "Indapamide",
+        "Generic Name": "Lozol",
+        "Drug Class": "Thiazide diuretics"
+    },
+    {
+        "Drug Name": "Inderal",
+        "Generic Name": "propranolol",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Indocin",
+        "Generic Name": "indomethacin",
+        "Drug Class": "Nonsteroidal anti-inflammatory drugs"
+    },
+    {
+        "Drug Name": "Indomethacin",
+        "Generic Name": "Indocin",
+        "Drug Class": "Nonsteroidal anti-inflammatory drugs"
+    },
+    {
+        "Drug Name": "Inflectra",
+        "Generic Name": "infliximab-dyyb",
+        "Drug Class": "TNF alfa inhibitors"
+    },
+    {
+        "Drug Name": "Infliximab",
+        "Generic Name": "Avsola",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Ingrezza",
+        "Generic Name": "valbenazine",
+        "Drug Class": "VMAT2 inhibitors"
+    },
+    {
+        "Drug Name": "Injectafer",
+        "Generic Name": "ferric carboxymaltose injection",
+        "Drug Class": "Iron products"
+    },
+    {
+        "Drug Name": "Inlyta",
+        "Generic Name": "axitinib",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Inrebic",
+        "Generic Name": "fedratinib",
+        "Drug Class": "Multikinase inhibitors"
+    },
+    {
+        "Drug Name": "Insulin aspart",
+        "Generic Name": "Fiasp",
+        "Drug Class": "Insulin"
+    },
+    {
+        "Drug Name": "Insulin degludec",
+        "Generic Name": "Tresiba",
+        "Drug Class": "Insulin"
+    },
+    {
+        "Drug Name": "Insulin Detemir",
+        "Generic Name": "Levemir",
+        "Drug Class": "Insulin"
+    },
+    {
+        "Drug Name": "Insulin glargine",
+        "Generic Name": null,
+        "Drug Class": "Insulin"
+    },
+    {
+        "Drug Name": "Insulin lispro",
+        "Generic Name": "Admelog",
+        "Drug Class": "Insulin"
+    },
+    {
+        "Drug Name": "Insulin Regular",
+        "Generic Name": "HumuLIN R",
+        "Drug Class": "Insulin"
+    },
+    {
+        "Drug Name": "Intuniv",
+        "Generic Name": "guanfacine",
+        "Drug Class": "Antiadrenergic agents, centrally acting"
+    },
+    {
+        "Drug Name": "Invega",
+        "Generic Name": "paliperidone",
+        "Drug Class": "Atypical antipsychotics"
+    },
+    {
+        "Drug Name": "Invega Sustenna",
+        "Generic Name": "paliperidone",
+        "Drug Class": "Atypical antipsychotics"
+    },
+    {
+        "Drug Name": "Invokana",
+        "Generic Name": "canagliflozin",
+        "Drug Class": "SGLT-2 inhibitors"
+    },
+    {
+        "Drug Name": "Iopamidol",
+        "Generic Name": "Isovue-200",
+        "Drug Class": "Non-ionic iodinated contrast media"
+    },
+    {
+        "Drug Name": "Ipratropium: Package Insert / Prescribing Info",
+        "Generic Name": "Anticholinergic bronchodilators",
+        "Drug Class": "Anticholinergic bronchodilators"
+    },
+    {
+        "Drug Name": "Irbesartan",
+        "Generic Name": "Avapro",
+        "Drug Class": "Angiotensin receptor blockers"
+    },
+    {
+        "Drug Name": "Isoniazid",
+        "Generic Name": "Nydrazid",
+        "Drug Class": "Hydrazide derivatives"
+    },
+    {
+        "Drug Name": "Isosorbide Mononitrate",
+        "Generic Name": "Imdur",
+        "Drug Class": "Antianginal agents"
+    },
+    {
+        "Drug Name": "Isosorbide dinitrate",
+        "Generic Name": "Isochron",
+        "Drug Class": "Antianginal agents"
+    },
+    {
+        "Drug Name": "Isosorbide Mononitrate: Package Insert / Prescribing Info",
+        "Generic Name": null,
+        "Drug Class": "Antianginal agents"
+    },
+    {
+        "Drug Name": "Isotretinoin",
+        "Generic Name": "Absorica",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Itraconazole",
+        "Generic Name": "Sporanox",
+        "Drug Class": "Azole antifungals"
+    },
+    {
+        "Drug Name": "Ivabradine",
+        "Generic Name": "Corlanor",
+        "Drug Class": "Miscellaneous cardiovascular agents"
+    },
+    {
+        "Drug Name": "Ivermectin",
+        "Generic Name": "Stromectol",
+        "Drug Class": "Anthelmintics"
+    },
+    {
+        "Drug Name": "Izervay",
+        "Generic Name": "avacincaptad pegol",
+        "Drug Class": "Anti-angiogenic ophthalmic agents"
+    },
+    {
+        "Drug Name": "Jadelle (Intradermal)",
+        "Generic Name": "Contraceptives",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Jadenu",
+        "Generic Name": "deferasirox",
+        "Drug Class": "Chelating agents"
+    },
+    {
+        "Drug Name": "Jaimiess: Package Insert / Prescribing Info",
+        "Generic Name": "levonorgestrel / ethinyl estradiol and ethinyl estradiol",
+        "Drug Class": "Contraceptives"
+    },
+    {
+        "Drug Name": "Jakafi",
+        "Generic Name": "ruxolitinib",
+        "Drug Class": "Multikinase inhibitors"
+    },
+    {
+        "Drug Name": "Jalyn",
+        "Generic Name": "dutasteride and tamsulosin",
+        "Drug Class": "5-alpha-reductase inhibitors"
+    },
+    {
+        "Drug Name": "Jantoven",
+        "Generic Name": "warfarin",
+        "Drug Class": "Coumarins and indandiones"
+    },
+    {
+        "Drug Name": "Janumet",
+        "Generic Name": "metformin and sitagliptin",
+        "Drug Class": "Antidiabetic combinations"
+    },
+    {
+        "Drug Name": "Janumet XR",
+        "Generic Name": "metformin and sitagliptin",
+        "Drug Class": "Antidiabetic combinations"
+    },
+    {
+        "Drug Name": "Januvia",
+        "Generic Name": "sitagliptin",
+        "Drug Class": "Dipeptidyl peptidase 4 inhibitors"
+    },
+    {
+        "Drug Name": "Jardiance",
+        "Generic Name": "empagliflozin",
+        "Drug Class": "SGLT-2 inhibitors"
+    },
+    {
+        "Drug Name": "Jasmiel",
+        "Generic Name": "drospirenone and ethinyl estradiol",
+        "Drug Class": "Contraceptives"
+    },
+    {
+        "Drug Name": "Jatenzo",
+        "Generic Name": "testosterone oral",
+        "Drug Class": "Androgens and anabolic steroids"
+    },
+    {
+        "Drug Name": "Jaypirca",
+        "Generic Name": "pirtobrutinib",
+        "Drug Class": "BTK inhibitors"
+    },
+    {
+        "Drug Name": "Jelmyto: Package Insert / Prescribing Info",
+        "Generic Name": "mitomycin",
+        "Drug Class": "Antibiotics / antineoplastics"
+    },
+    {
+        "Drug Name": "Jemperli",
+        "Generic Name": "dostarlimab-gxly",
+        "Drug Class": "Anti-PD-1 and PD-L1 monoclonal antibodies (immune checkpoint inhibitors)"
+    },
+    {
+        "Drug Name": "Jencycla",
+        "Generic Name": "norethindrone",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Jentadueto",
+        "Generic Name": "linagliptin and metformin",
+        "Drug Class": "Antidiabetic combinations"
+    },
+    {
+        "Drug Name": "Jesduvroq",
+        "Generic Name": "daprodustat",
+        "Drug Class": "Miscellaneous uncategorized agents"
+    },
+    {
+        "Drug Name": "Jeuveau",
+        "Generic Name": "prabotulinumtoxinA",
+        "Drug Class": "Skeletal muscle relaxants"
+    },
+    {
+        "Drug Name": "Jevtana",
+        "Generic Name": "cabazitaxel",
+        "Drug Class": "Mitotic inhibitors"
+    },
+    {
+        "Drug Name": "Jinteli (Oral)",
+        "Generic Name": "ethinyl estradiol and norethindrone",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Jivi: Package Insert / Prescribing Info",
+        "Generic Name": "antihemophilic factor",
+        "Drug Class": "Miscellaneous coagulation modifiers"
+    },
+    {
+        "Drug Name": "Joenja",
+        "Generic Name": "leniolisib",
+        "Drug Class": "PI3K inhibitors"
+    },
+    {
+        "Drug Name": "Jojoba topical",
+        "Generic Name": "Herbal products",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Jolessa (Oral)",
+        "Generic Name": "levonorgestrel and ethinyl estradiol",
+        "Drug Class": "Contraceptives"
+    },
+    {
+        "Drug Name": "Jolivette",
+        "Generic Name": "norethindrone",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Jornay PM",
+        "Generic Name": "methylphenidate hydrochloride",
+        "Drug Class": "CNS stimulants"
+    },
+    {
+        "Drug Name": "Joyeaux: Package Insert / Prescribing Info",
+        "Generic Name": "levonorgestrel and ethinyl estradiol and ferrous fumarate",
+        "Drug Class": "Contraceptives"
+    },
+    {
+        "Drug Name": "Jubbonti",
+        "Generic Name": "denosumab-bbdz",
+        "Drug Class": "Miscellaneous bone resorption inhibitors"
+    },
+    {
+        "Drug Name": "Jublia",
+        "Generic Name": "efinaconazole topical",
+        "Drug Class": "Topical antifungals"
+    },
+    {
+        "Drug Name": "Juluca",
+        "Generic Name": "dolutegravir and rilpivirine",
+        "Drug Class": "Antiviral combinations"
+    },
+    {
+        "Drug Name": "Junel: Package Insert / Prescribing Info",
+        "Generic Name": "Contraceptives",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Junel 1.5/30 (Oral)",
+        "Generic Name": "ethinyl estradiol and norethindrone",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Junel 1/20 (Oral)",
+        "Generic Name": "ethinyl estradiol and norethindrone",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Junel Fe 24: Package Insert / Prescribing Info",
+        "Generic Name": "norethindrone acetate and ethinyl estradiol and ferrous fumarate",
+        "Drug Class": "Contraceptives"
+    },
+    {
+        "Drug Name": "Juniper",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Juvederm",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Juxtapid",
+        "Generic Name": "lomitapide",
+        "Drug Class": "Miscellaneous antihyperlipidemic agents"
+    },
+    {
+        "Drug Name": "Jynarque",
+        "Generic Name": "tolvaptan",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Jynneos",
+        "Generic Name": "smallpox and monkeypox vaccine",
+        "Drug Class": "Viral vaccines"
+    },
+    {
+        "Drug Name": "K-Dur",
+        "Generic Name": "potassium chloride",
+        "Drug Class": "Minerals and electrolytes"
+    },
+    {
+        "Drug Name": "K-Tab: Package Insert / Prescribing Info",
+        "Generic Name": "potassium chloride",
+        "Drug Class": "Minerals and electrolytes"
+    },
+    {
+        "Drug Name": "Kadcyla",
+        "Generic Name": "ado-trastuzumab emtansine",
+        "Drug Class": "HER2 inhibitors"
+    },
+    {
+        "Drug Name": "Kadian",
+        "Generic Name": "morphine",
+        "Drug Class": "Opioids (narcotic analgesics)"
+    },
+    {
+        "Drug Name": "Kalbitor",
+        "Generic Name": "ecallantide",
+        "Drug Class": "Hereditary angioedema agents"
+    },
+    {
+        "Drug Name": "Kanamycin (Injection)",
+        "Generic Name": "Kantrex",
+        "Drug Class": "Aminoglycosides"
+    },
+    {
+        "Drug Name": "Kaolin",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Kaopectate",
+        "Generic Name": "bismuth subsalicylate",
+        "Drug Class": "Antidiarrheals"
+    },
+    {
+        "Drug Name": "Kapvay",
+        "Generic Name": "clonidine",
+        "Drug Class": "Antiadrenergic agents, centrally acting"
+    },
+    {
+        "Drug Name": "Kava",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Kayexalate",
+        "Generic Name": "sodium polystyrene sulfonate",
+        "Drug Class": "Cation exchange resins"
+    },
+    {
+        "Drug Name": "Keflex",
+        "Generic Name": "cephalexin",
+        "Drug Class": "First generation cephalosporins"
+    },
+    {
+        "Drug Name": "Kenalog",
+        "Generic Name": "triamcinolone topical",
+        "Drug Class": "Topical steroids"
+    },
+    {
+        "Drug Name": "Kenalog-40",
+        "Generic Name": "triamcinolone acetonide 40mg/mL",
+        "Drug Class": "Glucocorticoids"
+    },
+    {
+        "Drug Name": "Keppra",
+        "Generic Name": "levetiracetam",
+        "Drug Class": "Pyrrolidine anticonvulsants"
+    },
+    {
+        "Drug Name": "Keppra XR (Oral)",
+        "Generic Name": "levetiracetam",
+        "Drug Class": "Pyrrolidine anticonvulsants"
+    },
+    {
+        "Drug Name": "Kerendia",
+        "Generic Name": "finerenone",
+        "Drug Class": "Aldosterone receptor antagonists"
+    },
+    {
+        "Drug Name": "Kesimpta",
+        "Generic Name": "ofatumumab",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Ketalar",
+        "Generic Name": "ketamine",
+        "Drug Class": "General anesthetics"
+    },
+    {
+        "Drug Name": "Ketamine",
+        "Generic Name": "Ketalar",
+        "Drug Class": "General anesthetics"
+    },
+    {
+        "Drug Name": "Ketoconazole",
+        "Generic Name": "Nizoral",
+        "Drug Class": "Azole antifungals"
+    },
+    {
+        "Drug Name": "Ketoconazole Shampoo: Package Insert / Prescribing Info",
+        "Generic Name": null,
+        "Drug Class": "Topical antifungals"
+    },
+    {
+        "Drug Name": "Ketoprofen",
+        "Generic Name": "Orudis",
+        "Drug Class": "Nonsteroidal anti-inflammatory drugs"
+    },
+    {
+        "Drug Name": "Ketorolac: Package Insert / Prescribing Info",
+        "Generic Name": "Nonsteroidal anti-inflammatory drugs",
+        "Drug Class": "Nonsteroidal anti-inflammatory drugs"
+    },
+    {
+        "Drug Name": "Ketorolac ophthalmic",
+        "Generic Name": "Acular",
+        "Drug Class": "Ophthalmic anti-inflammatory agents"
+    },
+    {
+        "Drug Name": "Ketorolac Tromethamine: Package Insert / Prescribing Info",
+        "Generic Name": null,
+        "Drug Class": "Nonsteroidal anti-inflammatory drugs"
+    },
+    {
+        "Drug Name": "Ketotifen (Monograph)",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Ketotifen ophthalmic",
+        "Generic Name": "Alaway",
+        "Drug Class": "Ophthalmic antihistamines and decongestants"
+    },
+    {
+        "Drug Name": "Kevzara",
+        "Generic Name": "sarilumab",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Keytruda",
+        "Generic Name": "pembrolizumab",
+        "Drug Class": "Anti-PD-1 and PD-L1 monoclonal antibodies (immune checkpoint inhibitors)"
+    },
+    {
+        "Drug Name": "Kisqali",
+        "Generic Name": "ribociclib",
+        "Drug Class": "CDK 4/6 inhibitors"
+    },
+    {
+        "Drug Name": "Kisunla",
+        "Generic Name": "donanemab",
+        "Drug Class": "Miscellaneous central nervous system agents"
+    },
+    {
+        "Drug Name": "Klonopin",
+        "Generic Name": "clonazepam",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Klor-Con",
+        "Generic Name": "potassium chloride",
+        "Drug Class": "Minerals and electrolytes"
+    },
+    {
+        "Drug Name": "Korlym",
+        "Generic Name": "mifepristone",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Kratom",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Krazati",
+        "Generic Name": "adagrasib",
+        "Drug Class": "Miscellaneous antineoplastics"
+    },
+    {
+        "Drug Name": "Krill Oil",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Kurvelo",
+        "Generic Name": "ethinyl estradiol and levonorgestrel",
+        "Drug Class": "Contraceptives"
+    },
+    {
+        "Drug Name": "Kyleena",
+        "Generic Name": "levonorgestrel intrauterine system",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Kynmobi",
+        "Generic Name": " apomorphine hydrochloride",
+        "Drug Class": "Dopaminergic antiparkinsonism agents"
+    },
+    {
+        "Drug Name": "Labetalol",
+        "Generic Name": "Trandate",
+        "Drug Class": "Non-cardioselective beta blockers"
+    },
+    {
+        "Drug Name": "Lacosamide: Package Insert / Prescribing Info",
+        "Generic Name": null,
+        "Drug Class": "Miscellaneous anticonvulsants"
+    },
+    {
+        "Drug Name": "Lactulose",
+        "Generic Name": "Constulose",
+        "Drug Class": "Laxatives"
+    },
+    {
+        "Drug Name": "Lamictal",
+        "Generic Name": "lamotrigine",
+        "Drug Class": "Triazine anticonvulsants"
+    },
+    {
+        "Drug Name": "Lamotrigine",
+        "Generic Name": "LaMICtal",
+        "Drug Class": "Triazine anticonvulsants"
+    },
+    {
+        "Drug Name": "Lanadelumab",
+        "Generic Name": "Takhzyro",
+        "Drug Class": "Hereditary angioedema agents"
+    },
+    {
+        "Drug Name": "Lansoprazole",
+        "Generic Name": "Prevacid",
+        "Drug Class": "Proton pump inhibitors"
+    },
+    {
+        "Drug Name": "Lantus",
+        "Generic Name": "insulin glargine",
+        "Drug Class": "Insulin"
+    },
+    {
+        "Drug Name": "Lasix",
+        "Generic Name": "furosemide",
+        "Drug Class": "Loop diuretics"
+    },
+    {
+        "Drug Name": "Latanoprost (Ophthalmic)",
+        "Generic Name": "Xalatan",
+        "Drug Class": "Ophthalmic glaucoma agents"
+    },
+    {
+        "Drug Name": "Latuda",
+        "Generic Name": "lurasidone",
+        "Drug Class": "Atypical antipsychotics"
+    },
+    {
+        "Drug Name": "Leflunomide",
+        "Generic Name": "Arava",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Lenvatinib",
+        "Generic Name": "Lenvima",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Lenvima",
+        "Generic Name": "lenvatinib",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Leqembi",
+        "Generic Name": "lecanemab-irmb",
+        "Drug Class": "Miscellaneous central nervous system agents"
+    },
+    {
+        "Drug Name": "Letrozole",
+        "Generic Name": "Femara",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Leukeran",
+        "Generic Name": "chlorambucil",
+        "Drug Class": "Alkylating agents"
+    },
+    {
+        "Drug Name": "Leuprolide",
+        "Generic Name": "Camcevi",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Levalbuterol (Inhalation)",
+        "Generic Name": "Xopenex",
+        "Drug Class": "Adrenergic bronchodilators"
+    },
+    {
+        "Drug Name": "Levaquin",
+        "Generic Name": "levofloxacin",
+        "Drug Class": "Quinolones and fluoroquinolones"
+    },
+    {
+        "Drug Name": "Levemir",
+        "Generic Name": "insulin detemir",
+        "Drug Class": "Insulin"
+    },
+    {
+        "Drug Name": "Levetiracetam: Package Insert / Prescribing Info",
+        "Generic Name": null,
+        "Drug Class": "Pyrrolidine anticonvulsants"
+    },
+    {
+        "Drug Name": "Levocetirizine",
+        "Generic Name": "Xyzal",
+        "Drug Class": "Antihistamines"
+    },
+    {
+        "Drug Name": "Levodopa inhalation",
+        "Generic Name": "Inbrija",
+        "Drug Class": "Dopaminergic antiparkinsonism agents"
+    },
+    {
+        "Drug Name": "Levofloxacin",
+        "Generic Name": "Levaquin",
+        "Drug Class": "Quinolones and fluoroquinolones"
+    },
+    {
+        "Drug Name": "Levothyroxine",
+        "Generic Name": "Ermeza",
+        "Drug Class": "Thyroid drugs"
+    },
+    {
+        "Drug Name": "Lexapro",
+        "Generic Name": "escitalopram",
+        "Drug Class": "Selective serotonin reuptake inhibitors"
+    },
+    {
+        "Drug Name": "Lexette foam",
+        "Generic Name": "halobetasol propionate 0.05%",
+        "Drug Class": "Topical steroids"
+    },
+    {
+        "Drug Name": "Lialda",
+        "Generic Name": "mesalamine",
+        "Drug Class": "5-aminosalicylates"
+    },
+    {
+        "Drug Name": "Lidex (Topical application)",
+        "Generic Name": "fluocinonide",
+        "Drug Class": "Topical steroids"
+    },
+    {
+        "Drug Name": "Lidocaine : Package Insert / Prescribing Info",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Liletta",
+        "Generic Name": "levonorgestrel intrauterine system",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Linaclotide",
+        "Generic Name": "Linzess",
+        "Drug Class": "Guanylate cyclase-C agonists"
+    },
+    {
+        "Drug Name": "Linezolid (Monograph)",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Linzess",
+        "Generic Name": "linaclotide",
+        "Drug Class": "Guanylate cyclase-C agonists"
+    },
+    {
+        "Drug Name": "Lipitor",
+        "Generic Name": "atorvastatin",
+        "Drug Class": "Statins"
+    },
+    {
+        "Drug Name": "Liraglutide",
+        "Generic Name": "Saxenda",
+        "Drug Class": "Incretin Mimetics (GLP-1 Agonists)"
+    },
+    {
+        "Drug Name": "Lisdexamfetamine",
+        "Generic Name": "Vyvanse",
+        "Drug Class": "CNS stimulants"
+    },
+    {
+        "Drug Name": "Lisinopril",
+        "Generic Name": "Prinivil",
+        "Drug Class": "Angiotensin Converting Enzyme Inhibitors"
+    },
+    {
+        "Drug Name": "Lithium",
+        "Generic Name": "Lithobid",
+        "Drug Class": "Antimanic agents"
+    },
+    {
+        "Drug Name": "Lo Loestrin FE",
+        "Generic Name": "ethinyl estradiol and norethindrone acetate",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Lofexidine",
+        "Generic Name": "Lucemyra",
+        "Drug Class": "Antiadrenergic agents, centrally acting"
+    },
+    {
+        "Drug Name": "Lokelma",
+        "Generic Name": "sodium zirconium cyclosilicate",
+        "Drug Class": "Cation exchange resins"
+    },
+    {
+        "Drug Name": "Loperamide",
+        "Generic Name": "Diamode",
+        "Drug Class": "Antidiarrheals"
+    },
+    {
+        "Drug Name": "Lopressor: Package Insert / Prescribing Info",
+        "Generic Name": "metoprolol tartrate",
+        "Drug Class": "Cardioselective beta blockers"
+    },
+    {
+        "Drug Name": "Loratadine",
+        "Generic Name": "Alavert",
+        "Drug Class": "Antihistamines"
+    },
+    {
+        "Drug Name": "Lorazepam",
+        "Generic Name": "Ativan",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Lorlatinib",
+        "Generic Name": "Lorbrena",
+        "Drug Class": "Multikinase inhibitors"
+    },
+    {
+        "Drug Name": "Losartan",
+        "Generic Name": "Cozaar",
+        "Drug Class": "Angiotensin receptor blockers"
+    },
+    {
+        "Drug Name": "Lovastatin",
+        "Generic Name": "Altoprev",
+        "Drug Class": "Statins"
+    },
+    {
+        "Drug Name": "Lovenox",
+        "Generic Name": "enoxaparin",
+        "Drug Class": "Heparins"
+    },
+    {
+        "Drug Name": "Lunesta",
+        "Generic Name": "eszopiclone",
+        "Drug Class": "Miscellaneous anxiolytics, sedatives and hypnotics"
+    },
+    {
+        "Drug Name": "Lupron Depot",
+        "Generic Name": "leuprolide acetate for depot suspension",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Lurasidone",
+        "Generic Name": "Latuda",
+        "Drug Class": "Atypical antipsychotics"
+    },
+    {
+        "Drug Name": "Luxiq",
+        "Generic Name": "betamethasone topical",
+        "Drug Class": "Topical steroids"
+    },
+    {
+        "Drug Name": "Lyrica",
+        "Generic Name": "pregabalin",
+        "Drug Class": "Gamma-aminobutyric acid analogs"
+    },
+    {
+        "Drug Name": "Lyumjev",
+        "Generic Name": "insulin lispro",
+        "Drug Class": "Insulin"
+    },
+    {
+        "Drug Name": "Macrobid",
+        "Generic Name": "nitrofurantoin",
+        "Drug Class": "Urinary anti-infectives"
+    },
+    {
+        "Drug Name": "Magnesium oxide",
+        "Generic Name": "Phillips' Cramp-free",
+        "Drug Class": "Minerals and electrolytes"
+    },
+    {
+        "Drug Name": "Magnesium sulfate",
+        "Generic Name": "Epsom Salt",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Mavenclad",
+        "Generic Name": "cladribine",
+        "Drug Class": "Antimetabolites"
+    },
+    {
+        "Drug Name": "Mavyret",
+        "Generic Name": "glecaprevir and pibrentasvir",
+        "Drug Class": "Antiviral combinations"
+    },
+    {
+        "Drug Name": "Mayzent",
+        "Generic Name": "siponimod",
+        "Drug Class": "Selective immunosuppressants"
+    },
+    {
+        "Drug Name": "Meclizine",
+        "Generic Name": "Antivert",
+        "Drug Class": "Anticholinergic antiemetics"
+    },
+    {
+        "Drug Name": "Medrol",
+        "Generic Name": "methylprednisolone",
+        "Drug Class": "Glucocorticoids"
+    },
+    {
+        "Drug Name": "Mefenamic acid",
+        "Generic Name": "Ponstel",
+        "Drug Class": "Nonsteroidal anti-inflammatory drugs"
+    },
+    {
+        "Drug Name": "Melatonin",
+        "Generic Name": "Minerals and electrolytes",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Meloxicam",
+        "Generic Name": "Anjeso",
+        "Drug Class": "Nonsteroidal anti-inflammatory drugs"
+    },
+    {
+        "Drug Name": "Memantine",
+        "Generic Name": "Namenda",
+        "Drug Class": "Miscellaneous central nervous system agents"
+    },
+    {
+        "Drug Name": "Meropenem",
+        "Generic Name": "Merrem",
+        "Drug Class": "Carbapenems"
+    },
+    {
+        "Drug Name": "Mesalamine",
+        "Generic Name": "Apriso",
+        "Drug Class": "5-aminosalicylates"
+    },
+    {
+        "Drug Name": "Metformin",
+        "Generic Name": "Fortamet",
+        "Drug Class": "Non-sulfonylureas"
+    },
+    {
+        "Drug Name": "Methadone",
+        "Generic Name": "Dolophine",
+        "Drug Class": "Opioids (narcotic analgesics)"
+    },
+    {
+        "Drug Name": "Methimazole",
+        "Generic Name": "Tapazole",
+        "Drug Class": "Antithyroid agents"
+    },
+    {
+        "Drug Name": "Methocarbamol",
+        "Generic Name": "Robaxin",
+        "Drug Class": "Skeletal muscle relaxants"
+    },
+    {
+        "Drug Name": "Methotrexate",
+        "Generic Name": "Trexall",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Methylphenidate",
+        "Generic Name": "Adhansia XR",
+        "Drug Class": "CNS stimulants"
+    },
+    {
+        "Drug Name": "Methylprednisolone",
+        "Generic Name": "Medrol",
+        "Drug Class": "Glucocorticoids"
+    },
+    {
+        "Drug Name": "Metoclopramide",
+        "Generic Name": "Metozolv ODT",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Metolazone",
+        "Generic Name": "Zaroxolyn",
+        "Drug Class": "Thiazide diuretics"
+    },
+    {
+        "Drug Name": "Metoprolol",
+        "Generic Name": "Kapspargo Sprinkle",
+        "Drug Class": "Cardioselective beta blockers"
+    },
+    {
+        "Drug Name": "Metoprolol Succinate: Package Insert / Prescribing Info",
+        "Generic Name": null,
+        "Drug Class": "Cardioselective beta blockers"
+    },
+    {
+        "Drug Name": "Metronidazole",
+        "Generic Name": "Flagyl",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Midazolam",
+        "Generic Name": "Versed",
+        "Drug Class": "Benzodiazepines"
+    },
+    {
+        "Drug Name": "Midodrine",
+        "Generic Name": "ProAmatine",
+        "Drug Class": "Miscellaneous cardiovascular agents"
+    },
+    {
+        "Drug Name": "Minoxidil",
+        "Generic Name": null,
+        "Drug Class": "Miscellaneous topical agents"
+    },
+    {
+        "Drug Name": "Mirabegron",
+        "Generic Name": "Myrbetriq",
+        "Drug Class": "Urinary antispasmodics"
+    },
+    {
+        "Drug Name": "MiraLAX",
+        "Generic Name": "polyethylene glycol 3350",
+        "Drug Class": "Laxatives"
+    },
+    {
+        "Drug Name": "Mirtazapine",
+        "Generic Name": "Remeron",
+        "Drug Class": "Tetracyclic antidepressants"
+    },
+    {
+        "Drug Name": "Mobic",
+        "Generic Name": "meloxicam",
+        "Drug Class": "Nonsteroidal anti-inflammatory drugs"
+    },
+    {
+        "Drug Name": "Modafinil",
+        "Generic Name": "Provigil",
+        "Drug Class": "CNS stimulants"
+    },
+    {
+        "Drug Name": "Montelukast",
+        "Generic Name": "Singulair",
+        "Drug Class": "Leukotriene modifiers"
+    },
+    {
+        "Drug Name": "Morphine",
+        "Generic Name": null,
+        "Drug Class": "Opioids (narcotic analgesics)"
+    },
+    {
+        "Drug Name": "Motrin: Package Insert / Prescribing Info",
+        "Generic Name": "ibuprofen",
+        "Drug Class": "Nonsteroidal anti-inflammatory drugs"
+    },
+    {
+        "Drug Name": "Mounjaro",
+        "Generic Name": "tirzepatide",
+        "Drug Class": "Incretin Mimetics (GLP-1 Agonists)"
+    },
+    {
+        "Drug Name": "Moxifloxacin (Monograph)",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Mucinex",
+        "Generic Name": "guaifenesin",
+        "Drug Class": "Expectorants"
+    },
+    {
+        "Drug Name": "Mupirocin: Package Insert / Prescribing Info",
+        "Generic Name": null,
+        "Drug Class": "Topical antibiotics"
+    },
+    {
+        "Drug Name": "Mycapssa",
+        "Generic Name": "octreotide",
+        "Drug Class": "Somatostatin and somatostatin analogs"
+    },
+    {
+        "Drug Name": "Mycophenolate mofetil (Oral)",
+        "Generic Name": "Cellcept",
+        "Drug Class": "Selective immunosuppressants"
+    },
+    {
+        "Drug Name": "Myfembree",
+        "Generic Name": "relugolix, estradiol and norethindrone acetate",
+        "Drug Class": "Sex hormone combinations"
+    },
+    {
+        "Drug Name": "Mylotarg",
+        "Generic Name": "gemtuzumab ozogamicin",
+        "Drug Class": "CD33 monoclonal antibodies"
+    },
+    {
+        "Drug Name": "Myrbetriq",
+        "Generic Name": "mirabegron",
+        "Drug Class": "Urinary antispasmodics"
+    },
+    {
+        "Drug Name": "Nabumetone",
+        "Generic Name": "Relafen",
+        "Drug Class": "Nonsteroidal anti-inflammatory drugs"
+    },
+    {
+        "Drug Name": "NAC",
+        "Generic Name": "acetylcysteine",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Nadolol",
+        "Generic Name": "Corgard",
+        "Drug Class": "Non-cardioselective beta blockers"
+    },
+    {
+        "Drug Name": "Naloxone",
+        "Generic Name": "Narcan",
+        "Drug Class": "Antidotes"
+    },
+    {
+        "Drug Name": "Naltrexone",
+        "Generic Name": "Vivitrol",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Namenda",
+        "Generic Name": "memantine",
+        "Drug Class": "Miscellaneous central nervous system agents"
+    },
+    {
+        "Drug Name": "Nandrolone: Package Insert / Prescribing Info",
+        "Generic Name": "Androgens and anabolic steroids",
+        "Drug Class": "Androgens and anabolic steroids"
+    },
+    {
+        "Drug Name": "Naprosyn",
+        "Generic Name": "naproxen",
+        "Drug Class": "Nonsteroidal anti-inflammatory drugs"
+    },
+    {
+        "Drug Name": "Naproxen",
+        "Generic Name": "Aleve",
+        "Drug Class": "Nonsteroidal anti-inflammatory drugs"
+    },
+    {
+        "Drug Name": "Naratriptan",
+        "Generic Name": "Amerge",
+        "Drug Class": "Antimigraine agents"
+    },
+    {
+        "Drug Name": "Narcan",
+        "Generic Name": "naloxone",
+        "Drug Class": "Antidotes"
+    },
+    {
+        "Drug Name": "Nasacort: Package Insert / Prescribing Info",
+        "Generic Name": "triamcinolone acetonide",
+        "Drug Class": "Nasal steroids"
+    },
+    {
+        "Drug Name": "Nateglinide",
+        "Generic Name": "Starlix",
+        "Drug Class": "Meglitinides"
+    },
+    {
+        "Drug Name": "Nayzilam Nasal Spray",
+        "Generic Name": "midazolam",
+        "Drug Class": "Benzodiazepines"
+    },
+    {
+        "Drug Name": "Nebivolol",
+        "Generic Name": "Bystolic",
+        "Drug Class": "Cardioselective beta blockers"
+    },
+    {
+        "Drug Name": "Neomycin",
+        "Generic Name": "Neo-Fradin",
+        "Drug Class": "Aminoglycosides"
+    },
+    {
+        "Drug Name": "Neosporin (Ophthalmic)",
+        "Generic Name": "neomycin, polymyxin b, and gramicidin",
+        "Drug Class": "Ophthalmic anti-infectives"
+    },
+    {
+        "Drug Name": "Nerlynx",
+        "Generic Name": "neratinib",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Neupro Skin Patches",
+        "Generic Name": "rotigotine",
+        "Drug Class": "Dopaminergic antiparkinsonism agents"
+    },
+    {
+        "Drug Name": "Neurontin",
+        "Generic Name": "gabapentin",
+        "Drug Class": "Gamma-aminobutyric acid analogs"
+    },
+    {
+        "Drug Name": "Nexium",
+        "Generic Name": "esomeprazole magnesium",
+        "Drug Class": "Proton pump inhibitors"
+    },
+    {
+        "Drug Name": "Nexletol",
+        "Generic Name": "bempedoic acid",
+        "Drug Class": "Miscellaneous antihyperlipidemic agents"
+    },
+    {
+        "Drug Name": "Nexlizet",
+        "Generic Name": "bempedoic acid and ezetimibe",
+        "Drug Class": "Antihyperlipidemic combinations"
+    },
+    {
+        "Drug Name": "Nexplanon",
+        "Generic Name": "etonogestrel",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Niacin",
+        "Generic Name": "B3-500-Gr",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Nicardipine: Package Insert / Prescribing Info",
+        "Generic Name": "Calcium channel blockers",
+        "Drug Class": "Calcium channel blockers"
+    },
+    {
+        "Drug Name": "Nicotine (Monograph)",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Nifedipine",
+        "Generic Name": "Adalat CC",
+        "Drug Class": "Calcium channel blockers"
+    },
+    {
+        "Drug Name": "Nilandron",
+        "Generic Name": "nilutamide",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Nilutamide",
+        "Generic Name": "Nilandron",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Ninlaro",
+        "Generic Name": "ixazomib",
+        "Drug Class": "Proteasome inhibitors"
+    },
+    {
+        "Drug Name": "Nitrofurantoin",
+        "Generic Name": "Macrobid",
+        "Drug Class": "Urinary anti-infectives"
+    },
+    {
+        "Drug Name": "Nitroglycerin (Monograph)",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Nitrostat",
+        "Generic Name": "nitroglycerin",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Nivolumab",
+        "Generic Name": "Opdivo",
+        "Drug Class": "Anti-PD-1 and PD-L1 monoclonal antibodies (immune checkpoint inhibitors)"
+    },
+    {
+        "Drug Name": "Norco",
+        "Generic Name": "acetaminophen and hydrocodone",
+        "Drug Class": "Narcotic analgesic combinations"
+    },
+    {
+        "Drug Name": "Norepinephrine",
+        "Generic Name": "Levophed",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Norethindrone",
+        "Generic Name": "Camila",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Norflex",
+        "Generic Name": "orphenadrine",
+        "Drug Class": "Skeletal muscle relaxants"
+    },
+    {
+        "Drug Name": "Nortriptyline",
+        "Generic Name": "Pamelor",
+        "Drug Class": "Tricyclic antidepressants"
+    },
+    {
+        "Drug Name": "Norvasc",
+        "Generic Name": "amlodipine",
+        "Drug Class": "Calcium channel blockers"
+    },
+    {
+        "Drug Name": "Nourianz",
+        "Generic Name": "istradefylline",
+        "Drug Class": "Miscellaneous antiparkinson agents"
+    },
+    {
+        "Drug Name": "Novolin N",
+        "Generic Name": "insulin isophane",
+        "Drug Class": "Insulin"
+    },
+    {
+        "Drug Name": "NovoLog",
+        "Generic Name": "insulin aspart",
+        "Drug Class": "Insulin"
+    },
+    {
+        "Drug Name": "NP Thyroid",
+        "Generic Name": "thyroid desiccated",
+        "Drug Class": "Thyroid drugs"
+    },
+    {
+        "Drug Name": "Nplate",
+        "Generic Name": "romiplostim",
+        "Drug Class": "Platelet-stimulating agents"
+    },
+    {
+        "Drug Name": "Nubeqa",
+        "Generic Name": "darolutamide",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Nurtec ODT",
+        "Generic Name": "rimegepant",
+        "Drug Class": "CGRP inhibitors"
+    },
+    {
+        "Drug Name": "Nuvigil",
+        "Generic Name": "armodafinil",
+        "Drug Class": "CNS stimulants"
+    },
+    {
+        "Drug Name": "Nystatin",
+        "Generic Name": "Bio-Statin",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Ocella",
+        "Generic Name": "drospirenone and ethinyl estradiol",
+        "Drug Class": "Contraceptives"
+    },
+    {
+        "Drug Name": "Ocrelizumab",
+        "Generic Name": "Ocrevus",
+        "Drug Class": "CD20 monoclonal antibodies"
+    },
+    {
+        "Drug Name": "Ocrevus",
+        "Generic Name": "ocrelizumab",
+        "Drug Class": "CD20 monoclonal antibodies"
+    },
+    {
+        "Drug Name": "Octreotide: Package Insert / Prescribing Info",
+        "Generic Name": "Somatostatin and somatostatin analogs",
+        "Drug Class": "Somatostatin and somatostatin analogs"
+    },
+    {
+        "Drug Name": "Odefsey",
+        "Generic Name": "emtricitabine, rilpivirine, and tenofovir",
+        "Drug Class": "Antiviral combinations"
+    },
+    {
+        "Drug Name": "Ofev",
+        "Generic Name": "nintedanib [ nin-TED-a-nib ]",
+        "Drug Class": "Multikinase inhibitors"
+    },
+    {
+        "Drug Name": "Ofloxacin",
+        "Generic Name": "Floxin",
+        "Drug Class": "Quinolones and fluoroquinolones"
+    },
+    {
+        "Drug Name": "Ofloxacin ophthalmic",
+        "Generic Name": "Ocuflox",
+        "Drug Class": "Ophthalmic anti-infectives"
+    },
+    {
+        "Drug Name": "Ojjaara",
+        "Generic Name": "momelotinib",
+        "Drug Class": "Multikinase inhibitors"
+    },
+    {
+        "Drug Name": "Olanzapine",
+        "Generic Name": "Zyprexa",
+        "Drug Class": "Atypical antipsychotics"
+    },
+    {
+        "Drug Name": "Olaparib",
+        "Generic Name": "Lynparza",
+        "Drug Class": "PARP inhibitors"
+    },
+    {
+        "Drug Name": "Olmesartan",
+        "Generic Name": "Benicar",
+        "Drug Class": "Angiotensin receptor blockers"
+    },
+    {
+        "Drug Name": "Olopatadine (Monograph)",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Olopatadine ophthalmic",
+        "Generic Name": "Pataday Once Daily Relief",
+        "Drug Class": "Ophthalmic antihistamines and decongestants"
+    },
+    {
+        "Drug Name": "Olux",
+        "Generic Name": "clobetasol topical",
+        "Drug Class": "Topical steroids"
+    },
+    {
+        "Drug Name": "Omalizumab",
+        "Generic Name": "Xolair",
+        "Drug Class": "Selective immunosuppressants"
+    },
+    {
+        "Drug Name": "Omega-3",
+        "Generic Name": "omega-3 polyunsaturated fatty acids",
+        "Drug Class": "Nutraceutical products"
+    },
+    {
+        "Drug Name": "Omega-3 Fish Oil",
+        "Generic Name": "omega-3 polyunsaturated fatty acids",
+        "Drug Class": "Nutraceutical products"
+    },
+    {
+        "Drug Name": "Omeprazole",
+        "Generic Name": "PriLOSEC",
+        "Drug Class": "Proton pump inhibitors"
+    },
+    {
+        "Drug Name": "Omnicef",
+        "Generic Name": "cefdinir",
+        "Drug Class": "Third generation cephalosporins"
+    },
+    {
+        "Drug Name": "Omnipaque 350 (Injection, Intrathecal, Intravenous)",
+        "Generic Name": "iohexol",
+        "Drug Class": "Non-ionic iodinated contrast media"
+    },
+    {
+        "Drug Name": "Ondansetron",
+        "Generic Name": "Zofran",
+        "Drug Class": "5HT3 receptor antagonists"
+    },
+    {
+        "Drug Name": "Onfi",
+        "Generic Name": "clobazam",
+        "Drug Class": "Benzodiazepine anticonvulsants"
+    },
+    {
+        "Drug Name": "Ongentys",
+        "Generic Name": "opicapone",
+        "Drug Class": "Dopaminergic antiparkinsonism agents"
+    },
+    {
+        "Drug Name": "Onureg",
+        "Generic Name": "azacitidine",
+        "Drug Class": "Miscellaneous antineoplastics"
+    },
+    {
+        "Drug Name": "Opdivo",
+        "Generic Name": "nivolumab",
+        "Drug Class": "Anti-PD-1 and PD-L1 monoclonal antibodies (immune checkpoint inhibitors)"
+    },
+    {
+        "Drug Name": "Opill",
+        "Generic Name": "norgestrel",
+        "Drug Class": "Progestins"
+    },
+    {
+        "Drug Name": "Opzelura",
+        "Generic Name": "ruxolitinib",
+        "Drug Class": "Topical antineoplastics"
+    },
+    {
+        "Drug Name": "Orencia",
+        "Generic Name": "abatacept",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Orgovyx",
+        "Generic Name": "relugolix",
+        "Drug Class": "Gonadotropin-releasing hormone antagonists"
+    },
+    {
+        "Drug Name": "Oriahnn",
+        "Generic Name": "elagolix, estradiol, and norethindrone",
+        "Drug Class": "Sex hormone combinations"
+    },
+    {
+        "Drug Name": "Orladeyo",
+        "Generic Name": "berotralstat",
+        "Drug Class": "Hereditary angioedema agents"
+    },
+    {
+        "Drug Name": "Orlistat",
+        "Generic Name": "Alli",
+        "Drug Class": "Peripherally acting antiobesity agents"
+    },
+    {
+        "Drug Name": "Orphenadrine",
+        "Generic Name": "Norflex",
+        "Drug Class": "Skeletal muscle relaxants"
+    },
+    {
+        "Drug Name": "Oseltamivir",
+        "Generic Name": "Tamiflu",
+        "Drug Class": "Neuraminidase inhibitors"
+    },
+    {
+        "Drug Name": "Osimertinib",
+        "Generic Name": "Tagrisso",
+        "Drug Class": "EGFR inhibitors"
+    },
+    {
+        "Drug Name": "Otezla",
+        "Generic Name": "apremilast [a-PRE-mi-last]",
+        "Drug Class": "Antirheumatics"
+    },
+    {
+        "Drug Name": "Oxaliplatin",
+        "Generic Name": "Eloxatin",
+        "Drug Class": "Alkylating agents"
+    },
+    {
+        "Drug Name": "Oxandrolone",
+        "Generic Name": "Oxandrin",
+        "Drug Class": "Androgens and anabolic steroids"
+    },
+    {
+        "Drug Name": "Oxazepam",
+        "Generic Name": "Serax",
+        "Drug Class": "Benzodiazepines"
+    },
+    {
+        "Drug Name": "Oxcarbazepine",
+        "Generic Name": "Oxtellar XR",
+        "Drug Class": "Dibenzazepine anticonvulsants"
+    },
+    {
+        "Drug Name": "Oxtellar XR",
+        "Generic Name": "oxcarbazepine",
+        "Drug Class": "Dibenzazepine anticonvulsants"
+    },
+    {
+        "Drug Name": "Oxybutynin",
+        "Generic Name": "Ditropan XL",
+        "Drug Class": "Urinary antispasmodics"
+    },
+    {
+        "Drug Name": "Oxycodone",
+        "Generic Name": null,
+        "Drug Class": "Opioids (narcotic analgesics)"
+    },
+    {
+        "Drug Name": "OxyContin",
+        "Generic Name": "oxycodone",
+        "Drug Class": "Opioids (narcotic analgesics)"
+    },
+    {
+        "Drug Name": "Oxygen: Package Insert / Prescribing Info",
+        "Generic Name": null,
+        "Drug Class": "Medical gas"
+    },
+    {
+        "Drug Name": "Oxymetazoline nasal",
+        "Generic Name": "12 Hour Nasal",
+        "Drug Class": "Nasal antihistamines and decongestants"
+    },
+    {
+        "Drug Name": "Oxytocin",
+        "Generic Name": "Pitocin",
+        "Drug Class": "Uterotonic agents"
+    },
+    {
+        "Drug Name": "Ozanimod",
+        "Generic Name": "Zeposia",
+        "Drug Class": "Selective immunosuppressants"
+    },
+    {
+        "Drug Name": "Ozempic",
+        "Generic Name": "semaglutide injection",
+        "Drug Class": "Incretin Mimetics (GLP-1 Agonists)"
+    },
+    {
+        "Drug Name": "Paliperidone",
+        "Generic Name": "Invega",
+        "Drug Class": "Atypical antipsychotics"
+    },
+    {
+        "Drug Name": "Pantoprazole",
+        "Generic Name": "Protonix",
+        "Drug Class": "Proton pump inhibitors"
+    },
+    {
+        "Drug Name": "Paracetamol",
+        "Generic Name": "paracetamol",
+        "Drug Class": "Miscellaneous analgesics"
+    },
+    {
+        "Drug Name": "Paragard",
+        "Generic Name": "Miscellaneous vaginal agents",
+        "Drug Class": "Miscellaneous vaginal agents"
+    },
+    {
+        "Drug Name": "Paroxetine",
+        "Generic Name": "Brisdelle",
+        "Drug Class": "Selective serotonin reuptake inhibitors"
+    },
+    {
+        "Drug Name": "Paxil",
+        "Generic Name": "paroxetine",
+        "Drug Class": "Selective serotonin reuptake inhibitors"
+    },
+    {
+        "Drug Name": "Paxlovid",
+        "Generic Name": "nirmatrelvir and ritonavir",
+        "Drug Class": "Antiviral combinations"
+    },
+    {
+        "Drug Name": "Pembrolizumab",
+        "Generic Name": "Keytruda",
+        "Drug Class": "Anti-PD-1 and PD-L1 monoclonal antibodies (immune checkpoint inhibitors)"
+    },
+    {
+        "Drug Name": "Pentasa",
+        "Generic Name": "mesalamine",
+        "Drug Class": "5-aminosalicylates"
+    },
+    {
+        "Drug Name": "Pepcid",
+        "Generic Name": "famotidine",
+        "Drug Class": "H2 antagonists"
+    },
+    {
+        "Drug Name": "Percocet",
+        "Generic Name": "acetaminophen and oxycodone",
+        "Drug Class": "Narcotic analgesic combinations"
+    },
+    {
+        "Drug Name": "Phenazopyridine",
+        "Generic Name": "AZO Urinary Pain Relief",
+        "Drug Class": "Miscellaneous genitourinary tract agents"
+    },
+    {
+        "Drug Name": "Phenobarbital",
+        "Generic Name": "Luminal",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Phentermine",
+        "Generic Name": "Adipex-P",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Phenylephrine",
+        "Generic Name": "Sudafed PE Congestion",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Phenytoin",
+        "Generic Name": "Dilantin",
+        "Drug Class": "Hydantoin anticonvulsants"
+    },
+    {
+        "Drug Name": "Phexxi",
+        "Generic Name": "citric acid, lactic acid, and potassium bitartrate",
+        "Drug Class": "Miscellaneous vaginal agents"
+    },
+    {
+        "Drug Name": "Pioglitazone",
+        "Generic Name": "Actos",
+        "Drug Class": "Thiazolidinediones"
+    },
+    {
+        "Drug Name": "Plan B One-Step",
+        "Generic Name": "levonorgestrel emergency contraceptive",
+        "Drug Class": "Contraceptives"
+    },
+    {
+        "Drug Name": "Plaquenil",
+        "Generic Name": "hydroxychloroquine",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Plavix",
+        "Generic Name": "clopidogrel",
+        "Drug Class": "Platelet aggregation inhibitors"
+    },
+    {
+        "Drug Name": "Polyethylene glycol 3350",
+        "Generic Name": "ClearLax",
+        "Drug Class": "Laxatives"
+    },
+    {
+        "Drug Name": "Potassium Chloride",
+        "Generic Name": "Klor-Con",
+        "Drug Class": "Minerals and electrolytes"
+    },
+    {
+        "Drug Name": "Pradaxa",
+        "Generic Name": "dabigatran",
+        "Drug Class": "Thrombin inhibitors"
+    },
+    {
+        "Drug Name": "Praluent",
+        "Generic Name": "alirocumab",
+        "Drug Class": "PCSK9 inhibitors"
+    },
+    {
+        "Drug Name": "Pramipexole",
+        "Generic Name": "Mirapex ER",
+        "Drug Class": "Dopaminergic antiparkinsonism agents"
+    },
+    {
+        "Drug Name": "Pravastatin",
+        "Generic Name": "Pravachol",
+        "Drug Class": "Statins"
+    },
+    {
+        "Drug Name": "Prazosin",
+        "Generic Name": "Minipress",
+        "Drug Class": "Antiadrenergic agents, peripherally acting"
+    },
+    {
+        "Drug Name": "Prednisolone",
+        "Generic Name": "Flo-Pred",
+        "Drug Class": "Glucocorticoids"
+    },
+    {
+        "Drug Name": "Prednisone",
+        "Generic Name": "Rayos",
+        "Drug Class": "Glucocorticoids"
+    },
+    {
+        "Drug Name": "Pregabalin",
+        "Generic Name": "Lyrica",
+        "Drug Class": "Gamma-aminobutyric acid analogs"
+    },
+    {
+        "Drug Name": "Premarin",
+        "Generic Name": "conjugated estrogens",
+        "Drug Class": "Estrogens"
+    },
+    {
+        "Drug Name": "Prevnar 20",
+        "Generic Name": "Pneumococcal 20-valent conjugate vaccine",
+        "Drug Class": "Bacterial vaccines"
+    },
+    {
+        "Drug Name": "Prilosec",
+        "Generic Name": "omeprazole",
+        "Drug Class": "Proton pump inhibitors"
+    },
+    {
+        "Drug Name": "Primidone",
+        "Generic Name": "Mysoline",
+        "Drug Class": "Barbiturate anticonvulsants"
+    },
+    {
+        "Drug Name": "Pristiq",
+        "Generic Name": "desvenlafaxine",
+        "Drug Class": "Serotonin-norepinephrine reuptake inhibitors"
+    },
+    {
+        "Drug Name": "ProAir HFA (Inhalation)",
+        "Generic Name": "albuterol",
+        "Drug Class": "Adrenergic bronchodilators"
+    },
+    {
+        "Drug Name": "Probuphine Implant",
+        "Generic Name": "buprenorphine",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Prochlorperazine: Package Insert / Prescribing Info",
+        "Generic Name": "Phenothiazine antiemetics",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Progesterone",
+        "Generic Name": "Prometrium",
+        "Drug Class": "Progestins"
+    },
+    {
+        "Drug Name": "Prolia",
+        "Generic Name": "denosumab",
+        "Drug Class": "Miscellaneous bone resorption inhibitors"
+    },
+    {
+        "Drug Name": "Promacta",
+        "Generic Name": "eltrombopag",
+        "Drug Class": "Platelet-stimulating agents"
+    },
+    {
+        "Drug Name": "Promethazine",
+        "Generic Name": "Phenergan",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Propofol",
+        "Generic Name": "Diprivan",
+        "Drug Class": "General anesthetics"
+    },
+    {
+        "Drug Name": "Propranolol",
+        "Generic Name": "Hemangeol",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Protonix",
+        "Generic Name": "pantoprazole",
+        "Drug Class": "Proton pump inhibitors"
+    },
+    {
+        "Drug Name": "Provenge",
+        "Generic Name": "sipuleucel-T",
+        "Drug Class": "Therapeutic vaccines"
+    },
+    {
+        "Drug Name": "Provigil",
+        "Generic Name": "modafinil",
+        "Drug Class": "CNS stimulants"
+    },
+    {
+        "Drug Name": "Prozac",
+        "Generic Name": "fluoxetine",
+        "Drug Class": "Selective serotonin reuptake inhibitors"
+    },
+    {
+        "Drug Name": "Pseudoephedrine",
+        "Generic Name": "Contac Cold",
+        "Drug Class": "Decongestants"
+    },
+    {
+        "Drug Name": "Qalsody",
+        "Generic Name": "tofersen",
+        "Drug Class": "Miscellaneous central nervous system agents"
+    },
+    {
+        "Drug Name": "Qbrelis",
+        "Generic Name": "lisinopril",
+        "Drug Class": "Angiotensin Converting Enzyme Inhibitors"
+    },
+    {
+        "Drug Name": "Qbrexza (Topical application)",
+        "Generic Name": "glycopyrronium tosylate",
+        "Drug Class": "Miscellaneous topical agents"
+    },
+    {
+        "Drug Name": "Qelbree",
+        "Generic Name": "viloxazine",
+        "Drug Class": "Adrenergic uptake inhibitors for ADHD"
+    },
+    {
+        "Drug Name": "Qinlock",
+        "Generic Name": "ripretinib",
+        "Drug Class": "Multikinase inhibitors"
+    },
+    {
+        "Drug Name": "QNASL",
+        "Generic Name": "beclomethasone nasal",
+        "Drug Class": "Nasal steroids"
+    },
+    {
+        "Drug Name": "Qsymia",
+        "Generic Name": "phentermine and topiramate",
+        "Drug Class": "Anorexiants"
+    },
+    {
+        "Drug Name": "Quadracel",
+        "Generic Name": "diphtheria, pertussis acellular, polio, tetanus vaccine",
+        "Drug Class": "Vaccine combinations"
+    },
+    {
+        "Drug Name": "Qualaquin",
+        "Generic Name": "quinine",
+        "Drug Class": "Antimalarial quinolines"
+    },
+    {
+        "Drug Name": "Quassia",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Quazepam",
+        "Generic Name": "Doral",
+        "Drug Class": "Benzodiazepines"
+    },
+    {
+        "Drug Name": "Qudexy XR (Oral)",
+        "Generic Name": "topiramate",
+        "Drug Class": "Carbonic anhydrase inhibitor anticonvulsants"
+    },
+    {
+        "Drug Name": "Quercetin",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Questran",
+        "Generic Name": "cholestyramine",
+        "Drug Class": "Bile acid sequestrants"
+    },
+    {
+        "Drug Name": "Questran Light",
+        "Generic Name": "cholestyramine",
+        "Drug Class": "Bile acid sequestrants"
+    },
+    {
+        "Drug Name": "Quetiapine",
+        "Generic Name": "Seroquel",
+        "Drug Class": "Atypical antipsychotics"
+    },
+    {
+        "Drug Name": "Quillaja",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "QuilliChew ER",
+        "Generic Name": "methylphenidate hydrochloride",
+        "Drug Class": "CNS stimulants"
+    },
+    {
+        "Drug Name": "Quillivant XR",
+        "Generic Name": "methylphenidate",
+        "Drug Class": "CNS stimulants"
+    },
+    {
+        "Drug Name": "Quinapril",
+        "Generic Name": "Accupril",
+        "Drug Class": "Angiotensin Converting Enzyme Inhibitors"
+    },
+    {
+        "Drug Name": "Quinidine",
+        "Generic Name": "Quin-G",
+        "Drug Class": "Group I antiarrhythmics"
+    },
+    {
+        "Drug Name": "Quinine",
+        "Generic Name": "Qualaquin",
+        "Drug Class": "Antimalarial quinolines"
+    },
+    {
+        "Drug Name": "Quixin (Ophthalmic)",
+        "Generic Name": "levofloxacin",
+        "Drug Class": "Ophthalmic anti-infectives"
+    },
+    {
+        "Drug Name": "Quizartinib",
+        "Generic Name": "Vanflyta",
+        "Drug Class": "Multikinase inhibitors"
+    },
+    {
+        "Drug Name": "Qulipta",
+        "Generic Name": "atogepant",
+        "Drug Class": "CGRP inhibitors"
+    },
+    {
+        "Drug Name": "Qutenza",
+        "Generic Name": "capsaicin topical",
+        "Drug Class": "Miscellaneous topical agents"
+    },
+    {
+        "Drug Name": "Quviviq",
+        "Generic Name": "daridorexant",
+        "Drug Class": "Miscellaneous anxiolytics, sedatives and hypnotics"
+    },
+    {
+        "Drug Name": "Qvar (Inhalation)",
+        "Generic Name": "beclomethasone",
+        "Drug Class": "Inhaled corticosteroids"
+    },
+    {
+        "Drug Name": "Qvar Redihaler",
+        "Generic Name": "beclomethasone inhalation",
+        "Drug Class": "Inhaled corticosteroids"
+    },
+    {
+        "Drug Name": "Rabeprazole",
+        "Generic Name": "AcipHex",
+        "Drug Class": "Proton pump inhibitors"
+    },
+    {
+        "Drug Name": "Raloxifene",
+        "Generic Name": "Evista",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Ramelteon",
+        "Generic Name": "Rozerem",
+        "Drug Class": "Miscellaneous anxiolytics, sedatives and hypnotics"
+    },
+    {
+        "Drug Name": "Ramipril",
+        "Generic Name": "Altace",
+        "Drug Class": "Angiotensin Converting Enzyme Inhibitors"
+    },
+    {
+        "Drug Name": "Ranexa",
+        "Generic Name": "ranolazine",
+        "Drug Class": "Antianginal agents"
+    },
+    {
+        "Drug Name": "Ranitidine",
+        "Generic Name": "Zantac",
+        "Drug Class": "H2 antagonists"
+    },
+    {
+        "Drug Name": "Ranolazine",
+        "Generic Name": "Aspruzyo Sprinkle",
+        "Drug Class": "Antianginal agents"
+    },
+    {
+        "Drug Name": "Rapamune",
+        "Generic Name": "sirolimus",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Rebif",
+        "Generic Name": "interferon beta-1a",
+        "Drug Class": "Interferons"
+    },
+    {
+        "Drug Name": "Reclast",
+        "Generic Name": "zoledronic acid",
+        "Drug Class": "Bisphosphonates"
+    },
+    {
+        "Drug Name": "Reglan",
+        "Generic Name": "metoclopramide",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Relafen",
+        "Generic Name": "nabumetone",
+        "Drug Class": "Nonsteroidal anti-inflammatory drugs"
+    },
+    {
+        "Drug Name": "Relugolix",
+        "Generic Name": "Orgovyx",
+        "Drug Class": "Gonadotropin-releasing hormone antagonists"
+    },
+    {
+        "Drug Name": "Remeron",
+        "Generic Name": "mirtazapine",
+        "Drug Class": "Tetracyclic antidepressants"
+    },
+    {
+        "Drug Name": "Remicade",
+        "Generic Name": "infliximab",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Renflexis",
+        "Generic Name": "infliximab-abda",
+        "Drug Class": "TNF alfa inhibitors"
+    },
+    {
+        "Drug Name": "Renvela",
+        "Generic Name": "sevelamer",
+        "Drug Class": "Phosphate binders"
+    },
+    {
+        "Drug Name": "Repaglinide",
+        "Generic Name": "Prandin",
+        "Drug Class": "Meglitinides"
+    },
+    {
+        "Drug Name": "Repatha",
+        "Generic Name": "evolocumab",
+        "Drug Class": "PCSK9 inhibitors"
+    },
+    {
+        "Drug Name": "Requip",
+        "Generic Name": "ropinirole",
+        "Drug Class": "Dopaminergic antiparkinsonism agents"
+    },
+    {
+        "Drug Name": "Restasis",
+        "Generic Name": "cyclosporine ophthalmic",
+        "Drug Class": "Miscellaneous ophthalmic agents"
+    },
+    {
+        "Drug Name": "Restoril",
+        "Generic Name": "temazepam",
+        "Drug Class": "Benzodiazepines"
+    },
+    {
+        "Drug Name": "Retevmo",
+        "Generic Name": "selpercatinib",
+        "Drug Class": "Multikinase inhibitors"
+    },
+    {
+        "Drug Name": "Revlimid",
+        "Generic Name": "lenalidomide",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Rexulti",
+        "Generic Name": "brexpiprazole",
+        "Drug Class": "Atypical antipsychotics"
+    },
+    {
+        "Drug Name": "Reyvow",
+        "Generic Name": "lasmiditan",
+        "Drug Class": "Antimigraine agents"
+    },
+    {
+        "Drug Name": "Rifampin",
+        "Generic Name": "Rifadin",
+        "Drug Class": "Rifamycin derivatives"
+    },
+    {
+        "Drug Name": "Rifaximin",
+        "Generic Name": "Xifaxan",
+        "Drug Class": "Miscellaneous antibiotics"
+    },
+    {
+        "Drug Name": "Rimegepant",
+        "Generic Name": "Nurtec ODT",
+        "Drug Class": "CGRP inhibitors"
+    },
+    {
+        "Drug Name": "Rinvoq",
+        "Generic Name": "upadacitinib",
+        "Drug Class": "Antirheumatics"
+    },
+    {
+        "Drug Name": "Risdiplam",
+        "Generic Name": "Evrysdi",
+        "Drug Class": "Miscellaneous uncategorized agents"
+    },
+    {
+        "Drug Name": "Risedronate",
+        "Generic Name": "Actonel",
+        "Drug Class": "Bisphosphonates"
+    },
+    {
+        "Drug Name": "Risperdal",
+        "Generic Name": "risperidone",
+        "Drug Class": "Atypical antipsychotics"
+    },
+    {
+        "Drug Name": "Risperidone",
+        "Generic Name": "Risperdal",
+        "Drug Class": "Atypical antipsychotics"
+    },
+    {
+        "Drug Name": "Ritalin",
+        "Generic Name": "methylphenidate",
+        "Drug Class": "CNS stimulants"
+    },
+    {
+        "Drug Name": "Rituxan",
+        "Generic Name": "rituximab",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Rituxan Hycela",
+        "Generic Name": "hyaluronidase and rituximab",
+        "Drug Class": "CD20 monoclonal antibodies"
+    },
+    {
+        "Drug Name": "Rituximab",
+        "Generic Name": "Riabni",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Rivaroxaban",
+        "Generic Name": "Xarelto",
+        "Drug Class": "Factor Xa inhibitors"
+    },
+    {
+        "Drug Name": "Rivastigmine",
+        "Generic Name": "Exelon",
+        "Drug Class": "Cholinesterase inhibitors"
+    },
+    {
+        "Drug Name": "Rizatriptan",
+        "Generic Name": "Maxalt",
+        "Drug Class": "Antimigraine agents"
+    },
+    {
+        "Drug Name": "Robaxin",
+        "Generic Name": "methocarbamol",
+        "Drug Class": "Skeletal muscle relaxants"
+    },
+    {
+        "Drug Name": "Robitussin",
+        "Generic Name": "guaifenesin",
+        "Drug Class": "Expectorants"
+    },
+    {
+        "Drug Name": "Rocephin Injection",
+        "Generic Name": "ceftriaxone",
+        "Drug Class": "Third generation cephalosporins"
+    },
+    {
+        "Drug Name": "Roflumilast",
+        "Generic Name": "Daliresp",
+        "Drug Class": "Selective phosphodiesterase-4 inhibitors"
+    },
+    {
+        "Drug Name": "Ropinirole",
+        "Generic Name": "Requip XL",
+        "Drug Class": "Dopaminergic antiparkinsonism agents"
+    },
+    {
+        "Drug Name": "Rosuvastatin",
+        "Generic Name": "Crestor",
+        "Drug Class": "Statins"
+    },
+    {
+        "Drug Name": "Rowasa",
+        "Generic Name": "mesalamine",
+        "Drug Class": "5-aminosalicylates"
+    },
+    {
+        "Drug Name": "Ruconest",
+        "Generic Name": "c1 esterase inhibitor recombinant injection",
+        "Drug Class": "Hereditary angioedema agents"
+    },
+    {
+        "Drug Name": "Rybelsus",
+        "Generic Name": "semaglutide",
+        "Drug Class": "Incretin Mimetics (GLP-1 Agonists)"
+    },
+    {
+        "Drug Name": "Rydapt",
+        "Generic Name": "midostaurin",
+        "Drug Class": "Multikinase inhibitors"
+    },
+    {
+        "Drug Name": "Rytary",
+        "Generic Name": "carbidopa and levodopa",
+        "Drug Class": "Dopaminergic antiparkinsonism agents"
+    },
+    {
+        "Drug Name": "Sabril",
+        "Generic Name": "vigabatrin",
+        "Drug Class": "Gamma-aminobutyric acid analogs"
+    },
+    {
+        "Drug Name": "Sacubitril and valsartan",
+        "Generic Name": "Entresto",
+        "Drug Class": "Angiotensin receptor blockers and neprilysin inhibitors"
+    },
+    {
+        "Drug Name": "Salbutamol",
+        "Generic Name": "... show all 8 brands",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Salmeterol (Inhalation)",
+        "Generic Name": "Adrenergic bronchodilators",
+        "Drug Class": "Adrenergic bronchodilators"
+    },
+    {
+        "Drug Name": "Sandostatin",
+        "Generic Name": "octreotide injection",
+        "Drug Class": "Somatostatin and somatostatin analogs"
+    },
+    {
+        "Drug Name": "Saphnelo",
+        "Generic Name": "anifrolumab-fnia",
+        "Drug Class": "Selective immunosuppressants"
+    },
+    {
+        "Drug Name": "Scopolamine (Transdermal)",
+        "Generic Name": "Anticholinergic antiemetics",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Semaglutide",
+        "Generic Name": "Ozempic",
+        "Drug Class": "Incretin Mimetics (GLP-1 Agonists)"
+    },
+    {
+        "Drug Name": "Senna",
+        "Generic Name": "Black Draught",
+        "Drug Class": "Laxatives"
+    },
+    {
+        "Drug Name": "Senokot",
+        "Generic Name": "senna",
+        "Drug Class": "Laxatives"
+    },
+    {
+        "Drug Name": "Sernivo Spray",
+        "Generic Name": "betamethasone diproprionate 0.05%",
+        "Drug Class": "Topical steroids"
+    },
+    {
+        "Drug Name": "Seroquel",
+        "Generic Name": "quetiapine",
+        "Drug Class": "Atypical antipsychotics"
+    },
+    {
+        "Drug Name": "Sertraline",
+        "Generic Name": "Zoloft",
+        "Drug Class": "Selective serotonin reuptake inhibitors"
+    },
+    {
+        "Drug Name": "Sevelamer",
+        "Generic Name": "Renagel",
+        "Drug Class": "Phosphate binders"
+    },
+    {
+        "Drug Name": "Shingrix Vaccine",
+        "Generic Name": "zoster vaccine (inactivated)",
+        "Drug Class": "Viral vaccines"
+    },
+    {
+        "Drug Name": "Sildenafil",
+        "Generic Name": "Revatio",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Simethicone",
+        "Generic Name": "Alka-Seltzer Anti-Gas",
+        "Drug Class": "Miscellaneous GI agents"
+    },
+    {
+        "Drug Name": "Simponi",
+        "Generic Name": "golimumab",
+        "Drug Class": "TNF alfa inhibitors"
+    },
+    {
+        "Drug Name": "Simvastatin",
+        "Generic Name": "Zocor",
+        "Drug Class": "Statins"
+    },
+    {
+        "Drug Name": "Sinemet",
+        "Generic Name": "carbidopa and levodopa",
+        "Drug Class": "Dopaminergic antiparkinsonism agents"
+    },
+    {
+        "Drug Name": "Singulair",
+        "Generic Name": "montelukast",
+        "Drug Class": "Leukotriene modifiers"
+    },
+    {
+        "Drug Name": "Sitagliptin",
+        "Generic Name": "Januvia",
+        "Drug Class": "Dipeptidyl peptidase 4 inhibitors"
+    },
+    {
+        "Drug Name": "Skyrizi",
+        "Generic Name": "risankizumab",
+        "Drug Class": "Interleukin inhibitors"
+    },
+    {
+        "Drug Name": "Sodium bicarbonate",
+        "Generic Name": "Neut",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Sodium Chloride (Monograph)",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Sofosbuvir",
+        "Generic Name": "Sovaldi",
+        "Drug Class": "Miscellaneous antivirals"
+    },
+    {
+        "Drug Name": "Solifenacin",
+        "Generic Name": "VESIcare",
+        "Drug Class": "Urinary antispasmodics"
+    },
+    {
+        "Drug Name": "Soliqua 100/33",
+        "Generic Name": "insulin glargine and lixisenatide",
+        "Drug Class": "Antidiabetic combinations"
+    },
+    {
+        "Drug Name": "Soliris",
+        "Generic Name": "eculizumab",
+        "Drug Class": "Selective immunosuppressants"
+    },
+    {
+        "Drug Name": "SoluMEDROL (Injection)",
+        "Generic Name": "methylprednisolone",
+        "Drug Class": "Glucocorticoids"
+    },
+    {
+        "Drug Name": "Soma",
+        "Generic Name": "carisoprodol",
+        "Drug Class": "Skeletal muscle relaxants"
+    },
+    {
+        "Drug Name": "Somatuline Depot",
+        "Generic Name": "lanreotide",
+        "Drug Class": "Somatostatin and somatostatin analogs"
+    },
+    {
+        "Drug Name": "Somavert",
+        "Generic Name": "pegvisomant",
+        "Drug Class": "Growth hormone receptor blockers"
+    },
+    {
+        "Drug Name": "Sotalol",
+        "Generic Name": "Betapace",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Sovaldi",
+        "Generic Name": "sofosbuvir",
+        "Drug Class": "Miscellaneous antivirals"
+    },
+    {
+        "Drug Name": "Spinraza",
+        "Generic Name": "nusinersen",
+        "Drug Class": "Miscellaneous uncategorized agents"
+    },
+    {
+        "Drug Name": "Spiriva",
+        "Generic Name": "tiotropium inhalation",
+        "Drug Class": "Anticholinergic bronchodilators"
+    },
+    {
+        "Drug Name": "Spiriva Respimat (Inhalation)",
+        "Generic Name": "tiotropium",
+        "Drug Class": "Anticholinergic bronchodilators"
+    },
+    {
+        "Drug Name": "Spironolactone",
+        "Generic Name": "Aldactone",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Sprycel",
+        "Generic Name": "dasatinib",
+        "Drug Class": "BCR-ABL tyrosine kinase inhibitors"
+    },
+    {
+        "Drug Name": "Stelara",
+        "Generic Name": "ustekinumab",
+        "Drug Class": "Interleukin inhibitors"
+    },
+    {
+        "Drug Name": "Stiolto Respimat",
+        "Generic Name": "olodaterol and tiotropium",
+        "Drug Class": "Bronchodilator combinations"
+    },
+    {
+        "Drug Name": "Strattera",
+        "Generic Name": "atomoxetine",
+        "Drug Class": "Adrenergic uptake inhibitors for ADHD"
+    },
+    {
+        "Drug Name": "Stribild",
+        "Generic Name": "cobicistat, elvitegravir, emtricitabine, and tenofovir",
+        "Drug Class": "Antiviral combinations"
+    },
+    {
+        "Drug Name": "Sublocade Injection",
+        "Generic Name": "buprenorphine",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Suboxone",
+        "Generic Name": "buprenorphine and naloxone",
+        "Drug Class": "Narcotic analgesic combinations"
+    },
+    {
+        "Drug Name": "Sucralfate",
+        "Generic Name": "Carafate",
+        "Drug Class": "Miscellaneous GI agents"
+    },
+    {
+        "Drug Name": "Sudafed",
+        "Generic Name": "pseudoephedrine",
+        "Drug Class": "Decongestants"
+    },
+    {
+        "Drug Name": "Sulfamethoxazole and trimethoprim",
+        "Generic Name": "Bactrim",
+        "Drug Class": "Sulfonamides"
+    },
+    {
+        "Drug Name": "Sulfasalazine",
+        "Generic Name": "Azulfidine",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Sumatriptan: Package Insert / Prescribing Info",
+        "Generic Name": "Antimigraine agents",
+        "Drug Class": "Antimigraine agents"
+    },
+    {
+        "Drug Name": "Sunlenca",
+        "Generic Name": "lenacapavir",
+        "Drug Class": "Miscellaneous antivirals"
+    },
+    {
+        "Drug Name": "Sunosi",
+        "Generic Name": "solriamfetol",
+        "Drug Class": "Miscellaneous central nervous system agents"
+    },
+    {
+        "Drug Name": "Supprelin LA",
+        "Generic Name": "Histrelin Implant (CPP)",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Sutent",
+        "Generic Name": "sunitinib",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Syfovre",
+        "Generic Name": "pegcetacoplan",
+        "Drug Class": "Miscellaneous ophthalmic agents"
+    },
+    {
+        "Drug Name": "Symbicort",
+        "Generic Name": "budesonide and formoterol",
+        "Drug Class": "Bronchodilator combinations"
+    },
+    {
+        "Drug Name": "Sympazan",
+        "Generic Name": "clobazam",
+        "Drug Class": "Benzodiazepine anticonvulsants"
+    },
+    {
+        "Drug Name": "Synjardy",
+        "Generic Name": "empagliflozin and metformin",
+        "Drug Class": "Antidiabetic combinations"
+    },
+    {
+        "Drug Name": "Synthroid",
+        "Generic Name": "levothyroxine",
+        "Drug Class": "Thyroid drugs"
+    },
+    {
+        "Drug Name": "Tacrolimus: Package Insert / Prescribing Info",
+        "Generic Name": null,
+        "Drug Class": "Calcineurin inhibitors"
+    },
+    {
+        "Drug Name": "Tadalafil",
+        "Generic Name": "Adcirca",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Takhzyro",
+        "Generic Name": "lanadelumab-flyo [ LAN-a-DEL-ue-mab ]",
+        "Drug Class": "Hereditary angioedema agents"
+    },
+    {
+        "Drug Name": "Taltz",
+        "Generic Name": "ixekizumab",
+        "Drug Class": "Interleukin inhibitors"
+    },
+    {
+        "Drug Name": "Tamiflu",
+        "Generic Name": "oseltamivir",
+        "Drug Class": "Neuraminidase inhibitors"
+    },
+    {
+        "Drug Name": "Tamoxifen",
+        "Generic Name": "Soltamox",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Tamsulosin",
+        "Generic Name": "Flomax",
+        "Drug Class": "Alpha blockers"
+    },
+    {
+        "Drug Name": "Tazarotene Cream, Gel, Lotion, and Foam",
+        "Generic Name": "Arazlo",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Tazorac",
+        "Generic Name": "tazarotene topical",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Tecartus",
+        "Generic Name": "brexucabtagene autoleucel",
+        "Drug Class": "Miscellaneous antineoplastics"
+    },
+    {
+        "Drug Name": "Tecentriq",
+        "Generic Name": "atezolizumab",
+        "Drug Class": "Anti-PD-1 and PD-L1 monoclonal antibodies (immune checkpoint inhibitors)"
+    },
+    {
+        "Drug Name": "Tecfidera",
+        "Generic Name": "dimethyl fumarate [ dye-METH-il-FUE-mar-ate ]",
+        "Drug Class": "Selective immunosuppressants"
+    },
+    {
+        "Drug Name": "Tecvayli",
+        "Generic Name": "teclistamab-cqyv",
+        "Drug Class": "Bispecific T-cell engagers (BiTE)"
+    },
+    {
+        "Drug Name": "Tegretol",
+        "Generic Name": "carbamazepine",
+        "Drug Class": "Dibenzazepine anticonvulsants"
+    },
+    {
+        "Drug Name": "Telmisartan",
+        "Generic Name": "Micardis",
+        "Drug Class": "Angiotensin receptor blockers"
+    },
+    {
+        "Drug Name": "Temazepam",
+        "Generic Name": "Restoril",
+        "Drug Class": "Benzodiazepines"
+    },
+    {
+        "Drug Name": "Temovate",
+        "Generic Name": "clobetasol topical",
+        "Drug Class": "Topical steroids"
+    },
+    {
+        "Drug Name": "Tepezza",
+        "Generic Name": "teprotumumab ",
+        "Drug Class": "Growth hormone receptor blockers"
+    },
+    {
+        "Drug Name": "Terazosin",
+        "Generic Name": "Tezruly",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Terbinafine",
+        "Generic Name": "LamISIL",
+        "Drug Class": "Miscellaneous antifungals"
+    },
+    {
+        "Drug Name": "Testosterone Injection",
+        "Generic Name": "Aveed",
+        "Drug Class": "Androgens and anabolic steroids"
+    },
+    {
+        "Drug Name": "Tetracycline",
+        "Generic Name": "Ala-Tet",
+        "Drug Class": "Tetracyclines"
+    },
+    {
+        "Drug Name": "Theophylline",
+        "Generic Name": "Elixophyllin",
+        "Drug Class": "Methylxanthines"
+    },
+    {
+        "Drug Name": "Thiamine",
+        "Generic Name": "Vitamin B1",
+        "Drug Class": "Vitamins"
+    },
+    {
+        "Drug Name": "Tibsovo",
+        "Generic Name": "ivosidenib",
+        "Drug Class": "Miscellaneous antineoplastics"
+    },
+    {
+        "Drug Name": "Ticagrelor",
+        "Generic Name": "Brilinta",
+        "Drug Class": "Platelet aggregation inhibitors"
+    },
+    {
+        "Drug Name": "Timolol",
+        "Generic Name": "Blocadren",
+        "Drug Class": "Non-cardioselective beta blockers"
+    },
+    {
+        "Drug Name": "Tiotropium (Inhalation)",
+        "Generic Name": "Spiriva",
+        "Drug Class": "Anticholinergic bronchodilators"
+    },
+    {
+        "Drug Name": "Tirzepatide",
+        "Generic Name": null,
+        "Drug Class": "Incretin Mimetics (GLP-1 Agonists)"
+    },
+    {
+        "Drug Name": "Tizanidine",
+        "Generic Name": "Zanaflex",
+        "Drug Class": "Skeletal muscle relaxants"
+    },
+    {
+        "Drug Name": "Tolterodine",
+        "Generic Name": "Detrol",
+        "Drug Class": "Urinary antispasmodics"
+    },
+    {
+        "Drug Name": "Topamax",
+        "Generic Name": "topiramate",
+        "Drug Class": "Carbonic anhydrase inhibitor anticonvulsants"
+    },
+    {
+        "Drug Name": "Topiramate",
+        "Generic Name": "Eprontia",
+        "Drug Class": "Carbonic anhydrase inhibitor anticonvulsants"
+    },
+    {
+        "Drug Name": "Toprol-XL",
+        "Generic Name": "metoprolol succinate tablet, extended release",
+        "Drug Class": "Cardioselective beta blockers"
+    },
+    {
+        "Drug Name": "Toradol",
+        "Generic Name": "ketorolac",
+        "Drug Class": "Nonsteroidal anti-inflammatory drugs"
+    },
+    {
+        "Drug Name": "Torsemide",
+        "Generic Name": "Soaanz",
+        "Drug Class": "Loop diuretics"
+    },
+    {
+        "Drug Name": "Toujeo SoloStar",
+        "Generic Name": "insulin glargine",
+        "Drug Class": "Insulin"
+    },
+    {
+        "Drug Name": "Tradjenta",
+        "Generic Name": "linagliptin",
+        "Drug Class": "Dipeptidyl peptidase 4 inhibitors"
+    },
+    {
+        "Drug Name": "Tramadol",
+        "Generic Name": "ConZip",
+        "Drug Class": "Opioids (narcotic analgesics)"
+    },
+    {
+        "Drug Name": "Tranexamic acid",
+        "Generic Name": "Cyklokapron",
+        "Drug Class": "Miscellaneous coagulation modifiers"
+    },
+    {
+        "Drug Name": "Trazodone",
+        "Generic Name": "Desyrel",
+        "Drug Class": "Phenylpiperazine antidepressants"
+    },
+    {
+        "Drug Name": "Treanda",
+        "Generic Name": "bendamustine",
+        "Drug Class": "Alkylating agents"
+    },
+    {
+        "Drug Name": "Trelegy Ellipta",
+        "Generic Name": "fluticasone, umeclidinium, and vilanterol",
+        "Drug Class": "Bronchodilator combinations"
+    },
+    {
+        "Drug Name": "Trelstar",
+        "Generic Name": "triptorelin",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Tremfya",
+        "Generic Name": "guselkumab",
+        "Drug Class": "Interleukin inhibitors"
+    },
+    {
+        "Drug Name": "Tresiba: Package Insert / Prescribing Info",
+        "Generic Name": "insulin degludec",
+        "Drug Class": "Insulin"
+    },
+    {
+        "Drug Name": "Tretinoin Topical",
+        "Generic Name": "Retin-A",
+        "Drug Class": "Topical acne agents"
+    },
+    {
+        "Drug Name": "Triamcinolone",
+        "Generic Name": "Aristocort",
+        "Drug Class": "Glucocorticoids"
+    },
+    {
+        "Drug Name": "Triamcinolone Acetonide (Monograph)",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Triamterene",
+        "Generic Name": "Dyrenium",
+        "Drug Class": "Potassium-sparing diuretics"
+    },
+    {
+        "Drug Name": "Trileptal",
+        "Generic Name": "oxcarbazepine",
+        "Drug Class": "Dibenzazepine anticonvulsants"
+    },
+    {
+        "Drug Name": "Trintellix",
+        "Generic Name": "vortioxetine",
+        "Drug Class": "Miscellaneous antidepressants"
+    },
+    {
+        "Drug Name": "Triptorelin",
+        "Generic Name": "Trelstar",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Triumeq",
+        "Generic Name": "abacavir, dolutegravir, and lamivudine",
+        "Drug Class": "Antiviral combinations"
+    },
+    {
+        "Drug Name": "Trokendi XR",
+        "Generic Name": "topiramate",
+        "Drug Class": "Carbonic anhydrase inhibitor anticonvulsants"
+    },
+    {
+        "Drug Name": "Trulicity: Package Insert / Prescribing Info",
+        "Generic Name": "dulaglutide",
+        "Drug Class": "Incretin Mimetics (GLP-1 Agonists)"
+    },
+    {
+        "Drug Name": "Truqap",
+        "Generic Name": "capivasertib",
+        "Drug Class": "Multikinase inhibitors"
+    },
+    {
+        "Drug Name": "Truxima",
+        "Generic Name": "rituximab",
+        "Drug Class": "CD20 monoclonal antibodies"
+    },
+    {
+        "Drug Name": "Twirla Patch",
+        "Generic Name": "ethinyl estradiol and levonorgestrel",
+        "Drug Class": "Contraceptives"
+    },
+    {
+        "Drug Name": "Tylenol",
+        "Generic Name": "acetaminophen",
+        "Drug Class": "Miscellaneous analgesics"
+    },
+    {
+        "Drug Name": "Tyrvaya",
+        "Generic Name": "varenicline solution",
+        "Drug Class": "Cholinergic agonists"
+    },
+    {
+        "Drug Name": "Tysabri",
+        "Generic Name": "natalizumab",
+        "Drug Class": "Selective immunosuppressants"
+    },
+    {
+        "Drug Name": "Ubiquinone",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Ublituximab",
+        "Generic Name": "Briumvi",
+        "Drug Class": "CD20 monoclonal antibodies"
+    },
+    {
+        "Drug Name": "Ubrelvy",
+        "Generic Name": "ubrogepant",
+        "Drug Class": "CGRP inhibitors"
+    },
+    {
+        "Drug Name": "Ubrogepant",
+        "Generic Name": "Ubrelvy",
+        "Drug Class": "CGRP inhibitors"
+    },
+    {
+        "Drug Name": "Uceris Tablets",
+        "Generic Name": "budesonide",
+        "Drug Class": "Glucocorticoids"
+    },
+    {
+        "Drug Name": "Udenyca",
+        "Generic Name": "pegfilgrastim",
+        "Drug Class": "Colony stimulating factors"
+    },
+    {
+        "Drug Name": "Ulipristal",
+        "Generic Name": "Ella",
+        "Drug Class": "Progesterone receptor modulators"
+    },
+    {
+        "Drug Name": "Uloric",
+        "Generic Name": "febuxostat",
+        "Drug Class": "Antihyperuricemic agents"
+    },
+    {
+        "Drug Name": "Ulspira: Package Insert / Prescribing Info",
+        "Generic Name": "nitric oxide",
+        "Drug Class": "Miscellaneous respiratory agents"
+    },
+    {
+        "Drug Name": "Ultomiris",
+        "Generic Name": "ravulizumab",
+        "Drug Class": "Selective immunosuppressants"
+    },
+    {
+        "Drug Name": "Ultracet",
+        "Generic Name": "acetaminophen and tramadol",
+        "Drug Class": "Narcotic analgesic combinations"
+    },
+    {
+        "Drug Name": "Ultram",
+        "Generic Name": "tramadol",
+        "Drug Class": "Opioids (narcotic analgesics)"
+    },
+    {
+        "Drug Name": "Ultram ER",
+        "Generic Name": "tramadol",
+        "Drug Class": "Opioids (narcotic analgesics)"
+    },
+    {
+        "Drug Name": "Ultravate",
+        "Generic Name": "halobetasol topical",
+        "Drug Class": "Topical steroids"
+    },
+    {
+        "Drug Name": "Umeclidinium",
+        "Generic Name": "Incruse Ellipta",
+        "Drug Class": "Anticholinergic bronchodilators"
+    },
+    {
+        "Drug Name": "Umeclidinium and vilanterol",
+        "Generic Name": "Anoro Ellipta",
+        "Drug Class": "Bronchodilator combinations"
+    },
+    {
+        "Drug Name": "Unasyn",
+        "Generic Name": "ampicillin and sulbactam",
+        "Drug Class": "Penicillins / beta-lactamase inhibitors"
+    },
+    {
+        "Drug Name": "Undecylenic acid topical",
+        "Generic Name": "Blis-To-Sol Powder",
+        "Drug Class": "Topical antifungals"
+    },
+    {
+        "Drug Name": "Unisom",
+        "Generic Name": "doxylamine",
+        "Drug Class": "Miscellaneous anxiolytics, sedatives and hypnotics"
+    },
+    {
+        "Drug Name": "Unithroid (Oral)",
+        "Generic Name": "levothyroxine",
+        "Drug Class": "Thyroid drugs"
+    },
+    {
+        "Drug Name": "Upadacitinib",
+        "Generic Name": "Rinvoq",
+        "Drug Class": "Antirheumatics"
+    },
+    {
+        "Drug Name": "Upneeq",
+        "Generic Name": "oxymetazoline ophthalmic",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Uptravi",
+        "Generic Name": "selexipag",
+        "Drug Class": "Agents for pulmonary hypertension"
+    },
+    {
+        "Drug Name": "Urea (Intravenous)",
+        "Generic Name": "Miscellaneous diuretics",
+        "Drug Class": "Miscellaneous diuretics"
+    },
+    {
+        "Drug Name": "Urea Cream: Package Insert / Prescribing Info",
+        "Generic Name": null,
+        "Drug Class": "Topical emollients"
+    },
+    {
+        "Drug Name": "Urea topical",
+        "Generic Name": "Aqua Care",
+        "Drug Class": "Topical emollients"
+    },
+    {
+        "Drug Name": "Urecholine",
+        "Generic Name": "bethanechol",
+        "Drug Class": "Miscellaneous genitourinary tract agents"
+    },
+    {
+        "Drug Name": "Uretron D/S (Oral)",
+        "Generic Name": "hyoscyamine, methenamine, methylene blue, phenyl salicylate, and sodium phosphate",
+        "Drug Class": "Urinary antispasmodics"
+    },
+    {
+        "Drug Name": "Uribel",
+        "Generic Name": "hyoscyamine, methenamine, methylene blue, phenyl salicylate, Sodium biphosphate monobasic",
+        "Drug Class": "Urinary antispasmodics"
+    },
+    {
+        "Drug Name": "Urispas",
+        "Generic Name": "flavoxate",
+        "Drug Class": "Urinary antispasmodics"
+    },
+    {
+        "Drug Name": "Uro-MP",
+        "Generic Name": "hyoscyamine, methenamine, methylene blue, phenyl salicylate, sodium biphosphate",
+        "Drug Class": "Urinary antispasmodics"
+    },
+    {
+        "Drug Name": "Urocit-K",
+        "Generic Name": "potassium citrate",
+        "Drug Class": "Urinary pH modifiers"
+    },
+    {
+        "Drug Name": "Urogesic-Blue",
+        "Generic Name": "hyoscyamine, methenamine, methylene blue, and sodium biphosphate",
+        "Drug Class": "Urinary antispasmodics"
+    },
+    {
+        "Drug Name": "Urokinase",
+        "Generic Name": "Kinlytic",
+        "Drug Class": "Thrombolytics"
+    },
+    {
+        "Drug Name": "Uroxatral",
+        "Generic Name": "alfuzosin",
+        "Drug Class": "Alpha blockers"
+    },
+    {
+        "Drug Name": "Urso (Oral)",
+        "Generic Name": "ursodiol",
+        "Drug Class": "Gallstone solubilizing agents"
+    },
+    {
+        "Drug Name": "Urso Forte (Oral)",
+        "Generic Name": "ursodiol",
+        "Drug Class": "Gallstone solubilizing agents"
+    },
+    {
+        "Drug Name": "Ursodiol",
+        "Generic Name": "Reltone",
+        "Drug Class": "Gallstone solubilizing agents"
+    },
+    {
+        "Drug Name": "Ustekinumab",
+        "Generic Name": "Imuldosa",
+        "Drug Class": "Interleukin inhibitors"
+    },
+    {
+        "Drug Name": "Uzedy",
+        "Generic Name": "risperidone",
+        "Drug Class": "Atypical antipsychotics"
+    },
+    {
+        "Drug Name": "Valacyclovir",
+        "Generic Name": "Valtrex",
+        "Drug Class": "Purine nucleosides"
+    },
+    {
+        "Drug Name": "Valium",
+        "Generic Name": "diazepam",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Valproate Sodium",
+        "Generic Name": "valproic acid",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Valproic acid",
+        "Generic Name": "Valproate Sodium",
+        "Drug Class": "Fatty acid derivative anticonvulsants"
+    },
+    {
+        "Drug Name": "Valsartan",
+        "Generic Name": "Diovan",
+        "Drug Class": "Angiotensin receptor blockers"
+    },
+    {
+        "Drug Name": "Valtoco",
+        "Generic Name": "diazepam nasal",
+        "Drug Class": "Benzodiazepine anticonvulsants"
+    },
+    {
+        "Drug Name": "Valtrex",
+        "Generic Name": "valacyclovir",
+        "Drug Class": "Purine nucleosides"
+    },
+    {
+        "Drug Name": "Vancomycin",
+        "Generic Name": "Firvanq",
+        "Drug Class": "Glycopeptide antibiotics"
+    },
+    {
+        "Drug Name": "Vanos",
+        "Generic Name": "fluocinonide topical",
+        "Drug Class": "Topical steroids"
+    },
+    {
+        "Drug Name": "Varenicline",
+        "Generic Name": "Cholinergic agonists",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Vascepa",
+        "Generic Name": "icosapent",
+        "Drug Class": "Miscellaneous antihyperlipidemic agents"
+    },
+    {
+        "Drug Name": "Vasotec",
+        "Generic Name": "enalapril",
+        "Drug Class": "Angiotensin Converting Enzyme Inhibitors"
+    },
+    {
+        "Drug Name": "Velcade",
+        "Generic Name": "bortezomib",
+        "Drug Class": "Proteasome inhibitors"
+    },
+    {
+        "Drug Name": "Venclexta",
+        "Generic Name": "venetoclax",
+        "Drug Class": "Miscellaneous antineoplastics"
+    },
+    {
+        "Drug Name": "Venlafaxine",
+        "Generic Name": "Effexor XR",
+        "Drug Class": "Serotonin-norepinephrine reuptake inhibitors"
+    },
+    {
+        "Drug Name": "Venofer Injection",
+        "Generic Name": "iron sucrose",
+        "Drug Class": "Iron products"
+    },
+    {
+        "Drug Name": "Ventolin: Package Insert / Prescribing Info",
+        "Generic Name": "albuterol sulfate",
+        "Drug Class": "Adrenergic bronchodilators"
+    },
+    {
+        "Drug Name": "Ventolin HFA",
+        "Generic Name": "albuterol inhalation",
+        "Drug Class": "Adrenergic bronchodilators"
+    },
+    {
+        "Drug Name": "Veozah",
+        "Generic Name": " fezolinetant",
+        "Drug Class": "Miscellaneous central nervous system agents"
+    },
+    {
+        "Drug Name": "Verapamil",
+        "Generic Name": "Calan",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Verzenio",
+        "Generic Name": "abenaciclib",
+        "Drug Class": "CDK 4/6 inhibitors"
+    },
+    {
+        "Drug Name": "VESIcare",
+        "Generic Name": "solifenacin",
+        "Drug Class": "Urinary antispasmodics"
+    },
+    {
+        "Drug Name": "Viagra",
+        "Generic Name": "sildenafil",
+        "Drug Class": "Impotence agents"
+    },
+    {
+        "Drug Name": "Vibegron",
+        "Generic Name": "Gemtesa",
+        "Drug Class": "Urinary antispasmodics"
+    },
+    {
+        "Drug Name": "Vibramycin: Package Insert / Prescribing Info",
+        "Generic Name": "doxycycline",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Vicodin",
+        "Generic Name": "acetaminophen and hydrocodone",
+        "Drug Class": "Narcotic analgesic combinations"
+    },
+    {
+        "Drug Name": "Victoza",
+        "Generic Name": "liraglutide",
+        "Drug Class": "Incretin Mimetics (GLP-1 Agonists)"
+    },
+    {
+        "Drug Name": "Viibryd",
+        "Generic Name": "vilazodone",
+        "Drug Class": "Miscellaneous antidepressants"
+    },
+    {
+        "Drug Name": "Vilazodone",
+        "Generic Name": "Viibryd",
+        "Drug Class": "Miscellaneous antidepressants"
+    },
+    {
+        "Drug Name": "Vimpat",
+        "Generic Name": "lacosamide",
+        "Drug Class": "Miscellaneous anticonvulsants"
+    },
+    {
+        "Drug Name": "Vistaril",
+        "Generic Name": "hydroxyzine",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Vitamin A",
+        "Generic Name": "Aquasol A",
+        "Drug Class": "Vitamins"
+    },
+    {
+        "Drug Name": "Vitamin B12 (Monograph)",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Vitamin B6",
+        "Generic Name": "pyridoxine (vitamin B6)",
+        "Drug Class": "Vitamins"
+    },
+    {
+        "Drug Name": "Vitamin C",
+        "Generic Name": "ascorbic acid (vitamin C)",
+        "Drug Class": "Vitamins"
+    },
+    {
+        "Drug Name": "Vitamin D",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Vitamin D3",
+        "Generic Name": "cholecalciferol (vitamin D3)",
+        "Drug Class": "Vitamins"
+    },
+    {
+        "Drug Name": "Vitamin E",
+        "Generic Name": "Aquasol E",
+        "Drug Class": "Vitamins"
+    },
+    {
+        "Drug Name": "Vivitrol",
+        "Generic Name": "naltrexone",
+        "Drug Class": "Drugs used in alcohol dependence"
+    },
+    {
+        "Drug Name": "Voltaren",
+        "Generic Name": "diclofenac",
+        "Drug Class": "Nonsteroidal anti-inflammatory drugs"
+    },
+    {
+        "Drug Name": "Vonjo",
+        "Generic Name": "pacritinib",
+        "Drug Class": "Multikinase inhibitors"
+    },
+    {
+        "Drug Name": "Voquezna",
+        "Generic Name": "vonoprazan",
+        "Drug Class": "Proton pump inhibitors"
+    },
+    {
+        "Drug Name": "Vortioxetine",
+        "Generic Name": null,
+        "Drug Class": "Miscellaneous antidepressants"
+    },
+    {
+        "Drug Name": "Vosevi",
+        "Generic Name": "sofosbuvir, velpatasvir, and voxilaprevir",
+        "Drug Class": "Antiviral combinations"
+    },
+    {
+        "Drug Name": "Votrient",
+        "Generic Name": "pazopanib",
+        "Drug Class": "VEGF/VEGFR inhibitors"
+    },
+    {
+        "Drug Name": "Voydeya",
+        "Generic Name": "danicopan",
+        "Drug Class": "Selective immunosuppressants"
+    },
+    {
+        "Drug Name": "Vraylar",
+        "Generic Name": "cariprazine",
+        "Drug Class": "Atypical antipsychotics"
+    },
+    {
+        "Drug Name": "Vyepti",
+        "Generic Name": "eptinezumab-jjmr",
+        "Drug Class": "CGRP inhibitors"
+    },
+    {
+        "Drug Name": "Vyndamax",
+        "Generic Name": "tafamidis",
+        "Drug Class": "Transthyretin stabilizers"
+    },
+    {
+        "Drug Name": "Vyvanse",
+        "Generic Name": "lisdexamfetamine",
+        "Drug Class": "CNS stimulants"
+    },
+    {
+        "Drug Name": "Wainua",
+        "Generic Name": "Eplontersen",
+        "Drug Class": "Miscellaneous metabolic agents"
+    },
+    {
+        "Drug Name": "Wakix",
+        "Generic Name": "pitolisant [ pi-TOL-i-sant ]",
+        "Drug Class": "Miscellaneous central nervous system agents"
+    },
+    {
+        "Drug Name": "Wal-Zyr D: Package Insert / Prescribing Info",
+        "Generic Name": "cetirizine hydrochloride and pseudoephedrine hydrochloride",
+        "Drug Class": "Upper respiratory combinations"
+    },
+    {
+        "Drug Name": "Warfarin",
+        "Generic Name": "Coumadin",
+        "Drug Class": "Coumarins and indandiones"
+    },
+    {
+        "Drug Name": "Wart Remover",
+        "Generic Name": "salicylic acid topical",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Water for Injection: Package Insert / Prescribing Info",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Wegovy",
+        "Generic Name": "semaglutide",
+        "Drug Class": "Incretin Mimetics (GLP-1 Agonists)"
+    },
+    {
+        "Drug Name": "Welchol",
+        "Generic Name": "colesevelam",
+        "Drug Class": "Bile acid sequestrants"
+    },
+    {
+        "Drug Name": "Welireg",
+        "Generic Name": "belzutifan",
+        "Drug Class": "Miscellaneous antineoplastics"
+    },
+    {
+        "Drug Name": "Wellbutrin",
+        "Generic Name": "bupropion",
+        "Drug Class": "Miscellaneous antidepressants"
+    },
+    {
+        "Drug Name": "Wellbutrin SR",
+        "Generic Name": "bupropion",
+        "Drug Class": "Miscellaneous antidepressants"
+    },
+    {
+        "Drug Name": "Wellbutrin XL",
+        "Generic Name": "bupropion",
+        "Drug Class": "Miscellaneous antidepressants"
+    },
+    {
+        "Drug Name": "Westcort: Package Insert / Prescribing Info",
+        "Generic Name": "hydrocortisone valerate",
+        "Drug Class": "Topical steroids"
+    },
+    {
+        "Drug Name": "Westhroid",
+        "Generic Name": "thyroid desiccated",
+        "Drug Class": "Thyroid drugs"
+    },
+    {
+        "Drug Name": "White Mulberry",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Wild yam",
+        "Generic Name": "Herbal products",
+        "Drug Class": "Herbal products"
+    },
+    {
+        "Drug Name": "Willow Bark",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Wine",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Winlevi",
+        "Generic Name": "clascoterone",
+        "Drug Class": "Topical acne agents"
+    },
+    {
+        "Drug Name": "Winrevair",
+        "Generic Name": "sotatercept",
+        "Drug Class": "Agents for pulmonary hypertension"
+    },
+    {
+        "Drug Name": "Witch Hazel",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Witch hazel topical",
+        "Generic Name": "Hygenic Cleansing Pad",
+        "Drug Class": "Topical astringents"
+    },
+    {
+        "Drug Name": "Wixela Inhub: Package Insert / Prescribing Info",
+        "Generic Name": "fluticasone propionate and salmeterol",
+        "Drug Class": "Bronchodilator combinations"
+    },
+    {
+        "Drug Name": "Wormwood",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Wynzora",
+        "Generic Name": "calcipotriene and betamethasone dipropionate",
+        "Drug Class": "Topical antipsoriatics"
+    },
+    {
+        "Drug Name": "Xaciato",
+        "Generic Name": "clindamycin vaginal",
+        "Drug Class": "Vaginal anti-infectives"
+    },
+    {
+        "Drug Name": "Xadago",
+        "Generic Name": "safinamide",
+        "Drug Class": "Dopaminergic antiparkinsonism agents"
+    },
+    {
+        "Drug Name": "Xalatan",
+        "Generic Name": "latanoprost ophthalmic",
+        "Drug Class": "Ophthalmic glaucoma agents"
+    },
+    {
+        "Drug Name": "Xanax",
+        "Generic Name": "alprazolam",
+        "Drug Class": "Benzodiazepines"
+    },
+    {
+        "Drug Name": "Xanax XR",
+        "Generic Name": "alprazolam",
+        "Drug Class": "Benzodiazepines"
+    },
+    {
+        "Drug Name": "Xarelto",
+        "Generic Name": "rivaroxaban",
+        "Drug Class": "Factor Xa inhibitors"
+    },
+    {
+        "Drug Name": "Xcopri",
+        "Generic Name": "cenobamate",
+        "Drug Class": "Carbamate anticonvulsants"
+    },
+    {
+        "Drug Name": "Xeljanz",
+        "Generic Name": "tofacitinib",
+        "Drug Class": "Antirheumatics"
+    },
+    {
+        "Drug Name": "Xeloda",
+        "Generic Name": "capecitabine",
+        "Drug Class": "Antimetabolites"
+    },
+    {
+        "Drug Name": "Xembify",
+        "Generic Name": "immune globulin subcutaneous",
+        "Drug Class": "Immune globulins"
+    },
+    {
+        "Drug Name": "Xenical",
+        "Generic Name": "orlistat",
+        "Drug Class": "Peripherally acting antiobesity agents"
+    },
+    {
+        "Drug Name": "Xenleta: Package Insert / Prescribing Info",
+        "Generic Name": "lefamulin acetate",
+        "Drug Class": "Miscellaneous antibiotics"
+    },
+    {
+        "Drug Name": "Xeomin",
+        "Generic Name": "incobotulinumtoxinA",
+        "Drug Class": "Skeletal muscle relaxants"
+    },
+    {
+        "Drug Name": "Xermelo",
+        "Generic Name": "telotristat ethyl",
+        "Drug Class": "Miscellaneous GI agents"
+    },
+    {
+        "Drug Name": "Xgeva",
+        "Generic Name": "denosumab",
+        "Drug Class": "Miscellaneous bone resorption inhibitors"
+    },
+    {
+        "Drug Name": "Xhance: Package Insert / Prescribing Info",
+        "Generic Name": "fluticasone propionate",
+        "Drug Class": "Nasal steroids"
+    },
+    {
+        "Drug Name": "Xiaflex",
+        "Generic Name": "collagenase clostridium histolyticum",
+        "Drug Class": "Miscellaneous uncategorized agents"
+    },
+    {
+        "Drug Name": "Xifaxan",
+        "Generic Name": "rifaximin",
+        "Drug Class": "Miscellaneous antibiotics"
+    },
+    {
+        "Drug Name": "Xigduo XR",
+        "Generic Name": "dapagliflozin and metformin",
+        "Drug Class": "Antidiabetic combinations"
+    },
+    {
+        "Drug Name": "Xiidra Eye Drops",
+        "Generic Name": "lifitegrast ophthalmic solution 5%",
+        "Drug Class": "Ophthalmic anti-inflammatory agents"
+    },
+    {
+        "Drug Name": "Xofluza",
+        "Generic Name": "baloxavir marboxil",
+        "Drug Class": "Miscellaneous antivirals"
+    },
+    {
+        "Drug Name": "Xolair",
+        "Generic Name": "omalizumab",
+        "Drug Class": "Selective immunosuppressants"
+    },
+    {
+        "Drug Name": "Xopenex",
+        "Generic Name": "levalbuterol inhalation",
+        "Drug Class": "Adrenergic bronchodilators"
+    },
+    {
+        "Drug Name": "Xopenex HFA",
+        "Generic Name": "levalbuterol inhalation",
+        "Drug Class": "Adrenergic bronchodilators"
+    },
+    {
+        "Drug Name": "Xospata",
+        "Generic Name": "gilteritinib",
+        "Drug Class": "Multikinase inhibitors"
+    },
+    {
+        "Drug Name": "Xphozah",
+        "Generic Name": "tenapanor",
+        "Drug Class": "NHE3 inhibitors"
+    },
+    {
+        "Drug Name": "Xpovio",
+        "Generic Name": "selinexor",
+        "Drug Class": "Miscellaneous antineoplastics"
+    },
+    {
+        "Drug Name": "Xtampza ER",
+        "Generic Name": "oxycodone",
+        "Drug Class": "Opioids (narcotic analgesics)"
+    },
+    {
+        "Drug Name": "Xtandi",
+        "Generic Name": "enzalutamide",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Xulane",
+        "Generic Name": "ethinyl estradiol and norelgestromin",
+        "Drug Class": "Contraceptives"
+    },
+    {
+        "Drug Name": "Xultophy",
+        "Generic Name": "insulin degludec and liraglutide",
+        "Drug Class": "Antidiabetic combinations"
+    },
+    {
+        "Drug Name": "XyliMelts",
+        "Generic Name": "saliva substitutes",
+        "Drug Class": "Mouth and throat products"
+    },
+    {
+        "Drug Name": "Xylitol",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Xylocaine: Package Insert / Prescribing Info",
+        "Generic Name": "Group I antiarrhythmics",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Xylocaine and Epinephrine: Package Insert / Prescribing Info",
+        "Generic Name": "Local injectable anesthetics",
+        "Drug Class": "Local injectable anesthetics"
+    },
+    {
+        "Drug Name": "Xylocaine Jelly: Package Insert / Prescribing Info",
+        "Generic Name": "lidocaine hydrochloride",
+        "Drug Class": "Topical anesthetics"
+    },
+    {
+        "Drug Name": "Xyntha",
+        "Generic Name": "antihemophilic factor (recombinant)",
+        "Drug Class": "Miscellaneous coagulation modifiers"
+    },
+    {
+        "Drug Name": "Xyosted Injection",
+        "Generic Name": "testosterone injection",
+        "Drug Class": "Androgens and anabolic steroids"
+    },
+    {
+        "Drug Name": "Xyrem",
+        "Generic Name": "sodium oxybate",
+        "Drug Class": "Miscellaneous anxiolytics, sedatives and hypnotics"
+    },
+    {
+        "Drug Name": "Xywav",
+        "Generic Name": "calcium oxybate, magnesium oxybate, potassium oxybate, and sodium oxybate",
+        "Drug Class": "Miscellaneous anxiolytics, sedatives and hypnotics"
+    },
+    {
+        "Drug Name": "Xyzal",
+        "Generic Name": "levocetirizine",
+        "Drug Class": "Antihistamines"
+    },
+    {
+        "Drug Name": "Yasmin",
+        "Generic Name": "drospirenone and ethinyl estradiol",
+        "Drug Class": "Contraceptives"
+    },
+    {
+        "Drug Name": "Yaz",
+        "Generic Name": "drospirenone and ethinyl estradiol",
+        "Drug Class": "Contraceptives"
+    },
+    {
+        "Drug Name": "Ycanth",
+        "Generic Name": "cantharidin 0.7%",
+        "Drug Class": "Topical keratolytics"
+    },
+    {
+        "Drug Name": "Yellow fever vaccine",
+        "Generic Name": "YF-Vax",
+        "Drug Class": "Viral vaccines"
+    },
+    {
+        "Drug Name": "Yervoy",
+        "Generic Name": "ipilimumab",
+        "Drug Class": "Anti-CTLA-4 monoclonal antibodies"
+    },
+    {
+        "Drug Name": "Yesafili",
+        "Generic Name": "aflibercept",
+        "Drug Class": "Anti-angiogenic ophthalmic agents"
+    },
+    {
+        "Drug Name": "Yescarta",
+        "Generic Name": "axicabtagene ciloleucel",
+        "Drug Class": "Miscellaneous antineoplastics"
+    },
+    {
+        "Drug Name": "Yesintek",
+        "Generic Name": "ustekinumab-kfce",
+        "Drug Class": "Interleukin inhibitors"
+    },
+    {
+        "Drug Name": "Yohimbe",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Yohimbine (Oral)",
+        "Generic Name": "Impotence agents",
+        "Drug Class": "Impotence agents"
+    },
+    {
+        "Drug Name": "Yondelis",
+        "Generic Name": "trabectedin",
+        "Drug Class": "Alkylating agents"
+    },
+    {
+        "Drug Name": "Yonsa",
+        "Generic Name": "abiraterone",
+        "Drug Class": "Miscellaneous antineoplastics"
+    },
+    {
+        "Drug Name": "Yorvipath",
+        "Generic Name": "palopegteriparatide",
+        "Drug Class": "Parathyroid hormone and analogs"
+    },
+    {
+        "Drug Name": "Yucca",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Yuflyma",
+        "Generic Name": "adalimumab-aaty",
+        "Drug Class": "TNF alfa inhibitors"
+    },
+    {
+        "Drug Name": "Yupelri Inhalation",
+        "Generic Name": "revefenacin",
+        "Drug Class": "Anticholinergic bronchodilators"
+    },
+    {
+        "Drug Name": "Yusimry",
+        "Generic Name": "adalimumab-aqvh",
+        "Drug Class": "TNF alfa inhibitors"
+    },
+    {
+        "Drug Name": "Yutiq",
+        "Generic Name": "fluocinolone ophthalmic implant",
+        "Drug Class": "Ophthalmic steroids"
+    },
+    {
+        "Drug Name": "Yuvafem: Package Insert / Prescribing Info",
+        "Generic Name": "estradiol",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Zafirlukast",
+        "Generic Name": "Accolate",
+        "Drug Class": "Leukotriene modifiers"
+    },
+    {
+        "Drug Name": "Zaleplon",
+        "Generic Name": "Sonata",
+        "Drug Class": "Miscellaneous anxiolytics, sedatives and hypnotics"
+    },
+    {
+        "Drug Name": "Zanaflex",
+        "Generic Name": "tizanidine",
+        "Drug Class": "Skeletal muscle relaxants"
+    },
+    {
+        "Drug Name": "Zantac",
+        "Generic Name": "ranitidine",
+        "Drug Class": "H2 antagonists"
+    },
+    {
+        "Drug Name": "Zanubrutinib",
+        "Generic Name": "Brukinsa",
+        "Drug Class": "BTK inhibitors"
+    },
+    {
+        "Drug Name": "Zarxio",
+        "Generic Name": "filgrastim-sndz",
+        "Drug Class": "Colony stimulating factors"
+    },
+    {
+        "Drug Name": "Zebeta",
+        "Generic Name": "bisoprolol",
+        "Drug Class": "Cardioselective beta blockers"
+    },
+    {
+        "Drug Name": "Zegalogue",
+        "Generic Name": "dasiglucagon",
+        "Drug Class": "Glucose elevating agents"
+    },
+    {
+        "Drug Name": "Zenpep",
+        "Generic Name": "pancrelipase",
+        "Drug Class": "Digestive enzymes"
+    },
+    {
+        "Drug Name": "Zepbound",
+        "Generic Name": "tirzepatide",
+        "Drug Class": "Incretin Mimetics (GLP-1 Agonists)"
+    },
+    {
+        "Drug Name": "Zeposia",
+        "Generic Name": "ozanimod [ oh-ZAN-i-mod ]",
+        "Drug Class": "Selective immunosuppressants"
+    },
+    {
+        "Drug Name": "Zestoretic",
+        "Generic Name": "hydrochlorothiazide and lisinopril",
+        "Drug Class": "ACE inhibitors with thiazides"
+    },
+    {
+        "Drug Name": "Zestril",
+        "Generic Name": "lisinopril",
+        "Drug Class": "Angiotensin Converting Enzyme Inhibitors"
+    },
+    {
+        "Drug Name": "Zetia",
+        "Generic Name": "ezetimibe",
+        "Drug Class": "Cholesterol absorption inhibitors"
+    },
+    {
+        "Drug Name": "Zidovudine: Package Insert / Prescribing Info",
+        "Generic Name": null,
+        "Drug Class": "Nucleoside reverse transcriptase inhibitors (NRTIs)"
+    },
+    {
+        "Drug Name": "Zilbrysq",
+        "Generic Name": "zilucoplan",
+        "Drug Class": "Selective immunosuppressants"
+    },
+    {
+        "Drug Name": "Zileuton",
+        "Generic Name": "Zyflo",
+        "Drug Class": "Leukotriene modifiers"
+    },
+    {
+        "Drug Name": "Zinc",
+        "Generic Name": "zinc sulfate",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Zinc gluconate",
+        "Generic Name": "Minerals and electrolytes",
+        "Drug Class": "Minerals and electrolytes"
+    },
+    {
+        "Drug Name": "Zinc sulfate",
+        "Generic Name": "Zinc",
+        "Drug Class": "Minerals and electrolytes"
+    },
+    {
+        "Drug Name": "Ziprasidone",
+        "Generic Name": "Geodon",
+        "Drug Class": "Atypical antipsychotics"
+    },
+    {
+        "Drug Name": "Zithromax",
+        "Generic Name": "azithromycin",
+        "Drug Class": "Macrolides"
+    },
+    {
+        "Drug Name": "Zocor",
+        "Generic Name": "simvastatin",
+        "Drug Class": "Statins"
+    },
+    {
+        "Drug Name": "Zofran",
+        "Generic Name": "ondansetron",
+        "Drug Class": "5HT3 receptor antagonists"
+    },
+    {
+        "Drug Name": "Zofran ODT",
+        "Generic Name": "ondansetron",
+        "Drug Class": "5HT3 receptor antagonists"
+    },
+    {
+        "Drug Name": "Zoladex",
+        "Generic Name": "goserelin",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Zoledronic acid",
+        "Generic Name": "Reclast",
+        "Drug Class": "Bisphosphonates"
+    },
+    {
+        "Drug Name": "Zolmitriptan",
+        "Generic Name": "Zomig",
+        "Drug Class": "Antimigraine agents"
+    },
+    {
+        "Drug Name": "Zoloft",
+        "Generic Name": "sertraline",
+        "Drug Class": "Selective serotonin reuptake inhibitors"
+    },
+    {
+        "Drug Name": "Zolpidem",
+        "Generic Name": "Ambien",
+        "Drug Class": "Miscellaneous anxiolytics, sedatives and hypnotics"
+    },
+    {
+        "Drug Name": "Zometa",
+        "Generic Name": "zoledronic acid",
+        "Drug Class": "Bisphosphonates"
+    },
+    {
+        "Drug Name": "Zomig",
+        "Generic Name": "zolmitriptan",
+        "Drug Class": "Antimigraine agents"
+    },
+    {
+        "Drug Name": "Zonegran",
+        "Generic Name": "zonisamide",
+        "Drug Class": "Carbonic anhydrase inhibitor anticonvulsants"
+    },
+    {
+        "Drug Name": "Zonisamide",
+        "Generic Name": "Zonegran",
+        "Drug Class": "Carbonic anhydrase inhibitor anticonvulsants"
+    },
+    {
+        "Drug Name": "Zopiclone",
+        "Generic Name": "... show all 11 brands",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Zoryve",
+        "Generic Name": "roflumilast topical",
+        "Drug Class": "Selective phosphodiesterase-4 inhibitors"
+    },
+    {
+        "Drug Name": "Zosyn",
+        "Generic Name": "piperacillin and tazobactam",
+        "Drug Class": "Penicillins / beta-lactamase inhibitors"
+    },
+    {
+        "Drug Name": "Zovirax",
+        "Generic Name": "acyclovir",
+        "Drug Class": "Purine nucleosides"
+    },
+    {
+        "Drug Name": "Zydelig",
+        "Generic Name": "idelalisib",
+        "Drug Class": "PI3K inhibitors"
+    },
+    {
+        "Drug Name": "Zykadia",
+        "Generic Name": "ceritinib",
+        "Drug Class": "Multikinase inhibitors"
+    },
+    {
+        "Drug Name": "Zyloprim (Oral)",
+        "Generic Name": "allopurinol",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "Zyprexa",
+        "Generic Name": "Olanzapine",
+        "Drug Class": "Atypical antipsychotics"
+    },
+    {
+        "Drug Name": "Zyrtec",
+        "Generic Name": "cetirizine",
+        "Drug Class": "Antihistamines"
+    },
+    {
+        "Drug Name": "Zytiga",
+        "Generic Name": "abiraterone",
+        "Drug Class": "Miscellaneous antineoplastics"
+    },
+    {
+        "Drug Name": "Zyvox",
+        "Generic Name": "linezolid",
+        "Drug Class": "Oxazolidinone antibiotics"
+    },
+    {
+        "Drug Name": "12 Hour Cold Maximum Strength (Oral)",
+        "Generic Name": "Cenafed",
+        "Drug Class": "Decongestants"
+    },
+    {
+        "Drug Name": "12 Hour Nasal",
+        "Generic Name": "oxymetazoline nasal",
+        "Drug Class": "Nasal antihistamines and decongestants"
+    },
+    {
+        "Drug Name": "12 Hour Nasal Decongestant",
+        "Generic Name": "oxymetazoline nasal",
+        "Drug Class": "Nasal antihistamines and decongestants"
+    },
+    {
+        "Drug Name": "13c urea and citric acid (Oral)",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "14c urea (Oral)",
+        "Generic Name": null,
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "2 in 1 Dandruff (Topical)",
+        "Generic Name": "Beta Med",
+        "Drug Class": "Miscellaneous topical agents"
+    },
+    {
+        "Drug Name": "3M Skin and Nasal Antiseptic",
+        "Generic Name": "povidone iodine topical",
+        "Drug Class": "Antiseptic and germicides"
+    },
+    {
+        "Drug Name": "4-Way",
+        "Generic Name": "phenylephrine nasal",
+        "Drug Class": "Nasal antihistamines and decongestants"
+    },
+    {
+        "Drug Name": "4-Way Long Lasting (Nasal)",
+        "Generic Name": "oxymetazoline",
+        "Drug Class": "Nasal antihistamines and decongestants"
+    },
+    {
+        "Drug Name": "5-HTP",
+        "Generic Name": "5-hydroxytryptophan",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "5-HTP Mood and Stress",
+        "Generic Name": "5-HTP",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "5-hydroxytryptophan",
+        "Generic Name": "5-HTP",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "5-hydroxytryptophan, melatonin, and pyridoxine",
+        "Generic Name": "Miscellaneous anxiolytics, sedatives and hypnotics",
+        "Drug Class": "Miscellaneous anxiolytics, sedatives and hypnotics"
+    },
+    {
+        "Drug Name": "60 Second Fluoride Gel: Package Insert / Prescribing Info",
+        "Generic Name": "Mouth and throat products",
+        "Drug Class": "Mouth and throat products"
+    },
+    {
+        "Drug Name": "60-Second Fluoride Foam: Package Insert / Prescribing Info",
+        "Generic Name": "Mouth and throat products",
+        "Drug Class": "Mouth and throat products"
+    },
+    {
+        "Drug Name": "7T Gummy ES Chewable Tablets: Package Insert / Prescribing Info",
+        "Generic Name": "acetaminophen",
+        "Drug Class": null
+    },
+    {
+        "Drug Name": "8-Mop",
+        "Generic Name": "methoxsalen",
+        "Drug Class": "Psoralens"
+    },
+    {
+        "Drug Name": "A/B Otic (Otic)",
+        "Generic Name": "antipyrine and benzocaine",
+        "Drug Class": "Otic anesthetics"
+    },
+    {
+        "Drug Name": "Abacavir",
+        "Generic Name": "Ziagen",
+        "Drug Class": "Nucleoside reverse transcriptase inhibitors (NRTIs)"
+    },
+    {
+        "Drug Name": "Abacavir and lamivudine",
+        "Generic Name": "Epzicom",
+        "Drug Class": "Antiviral combinations"
+    },
+    {
+        "Drug Name": "Abacavir and Lamivudine Tablets: Package Insert / Prescribing Info",
+        "Generic Name": null,
+        "Drug Class": "Antiviral combinations"
+    }
+]

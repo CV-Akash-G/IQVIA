@@ -1,0 +1,6 @@
+Prescription ID,Customer ID,Medication ID,Dosage,Date Issued,Prescribed By
+P001,C001,101,500mg,10-12-2024,Dr. Andrews
+P002,C002,102,250mg,12-12-2024,Dr. Stevens
+P003,C003,103,200mg,14-12-2024,Dr. Harris
+P004,C004,105,10ml,16-12-2024,Dr. Clark
+P005,C005,104,100mg,18-12-2024,Dr. Moore
