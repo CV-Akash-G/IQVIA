@@ -1,0 +1,109 @@
+Source ID,Source Name,Source Type,File Type,File ID,File Name,Column Name,Column Sequence,Similar Columns,Similar Columns File ID,Data Type,Is Numeric,Is Mandatory,Is Unique,Is Primary Key,Is Foreign Key,Lookup Column,Auto Gen,Default,Sensitive,Encrypted,Currency,Measurement
+2,HealthMart,File,CSV Files,1,Customers,Customer ID,1,Yes,1; 4,string,No,No,No,No,No,,No,No,No,No,No,No
+2,HealthMart,File,CSV Files,1,Customers,Name,2,No,,string,No,Yes,Yes,No,No,,No,No,No,No,No,No
+2,HealthMart,File,CSV Files,1,Customers,Age,3,No,,float,Yes,No,No,No,No,,No,No,No,No,No,No
+2,HealthMart,File,CSV Files,1,Customers,Gender,4,Yes,1; 1,string,No,No,No,No,No,,No,No,No,No,No,No
+2,HealthMart,File,CSV Files,1,Customers,Phone Number,5,No,,string,No,Yes,Yes,No,No,,No,No,No,No,No,No
+2,HealthMart,File,CSV Files,1,Customers,Email,6,Yes,1; 3,string,No,No,No,No,No,,No,No,Yes,No,No,No
+2,HealthMart,File,CSV Files,2,Pharmacy Inventory,Item ID,1,Yes,2; 3,int,Yes,Yes,Yes,No,No,,Yes,No,No,No,No,No
+2,HealthMart,File,CSV Files,2,Pharmacy Inventory,Product Name,2,Yes,2; 3,string,No,No,No,No,No,,No,No,No,Yes,No,No
+2,HealthMart,File,CSV Files,2,Pharmacy Inventory,Category,3,Yes,2; 3,string,No,No,No,No,No,,No,No,No,Yes,No,No
+2,HealthMart,File,CSV Files,2,Pharmacy Inventory,Quantity,4,Yes,2; 3,int,Yes,Yes,Yes,No,No,,No,No,No,No,No,No
+2,HealthMart,File,CSV Files,2,Pharmacy Inventory,Price,5,No,,float,Yes,Yes,Yes,No,No,,No,No,No,No,No,No
+2,HealthMart,File,CSV Files,2,Pharmacy Inventory,Expiry Date,6,Yes,2; 3,string,No,Yes,Yes,No,No,,No,No,No,No,No,No
+2,HealthMart,File,CSV Files,3,Pharmacy_Stocks,Item ID,1,Yes,2; 3,int,Yes,Yes,No,No,No,,No,No,No,No,No,No
+2,HealthMart,File,CSV Files,3,Pharmacy_Stocks,Product Name,2,Yes,2; 3,string,No,Yes,Yes,No,No,,No,No,No,Yes,No,No
+2,HealthMart,File,CSV Files,3,Pharmacy_Stocks,Category,3,Yes,2; 3,string,No,Yes,Yes,No,No,,No,No,No,Yes,No,No
+2,HealthMart,File,CSV Files,3,Pharmacy_Stocks,Quantity,4,Yes,2; 3,int,Yes,Yes,No,No,No,,No,No,Yes,Yes,No,No
+2,HealthMart,File,CSV Files,3,Pharmacy_Stocks,Price ($),5,No,,float,Yes,Yes,No,No,No,,No,No,No,No,No,No
+2,HealthMart,File,CSV Files,3,Pharmacy_Stocks,Expiry Date,6,Yes,2; 3,date,No,Yes,No,No,No,,No,No,No,No,No,No
+2,HealthMart,File,CSV Files,3,Pharmacy_Stocks,Supplier ID,7,Yes,3; 3,string,No,Yes,No,No,No,,No,No,No,No,No,No
+2,HealthMart,File,CSV Files,4,Prescriptions,Prescription ID,1,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+2,HealthMart,File,CSV Files,4,Prescriptions,Customer ID,2,Yes,1; 4,string,No,Yes,No,No,No,,No,No,No,No,No,No
+2,HealthMart,File,CSV Files,4,Prescriptions,Medication ID,3,Yes,4; 1,float,Yes,No,No,No,No,,No,No,No,No,No,No
+2,HealthMart,File,CSV Files,4,Prescriptions,Dosage,4,Yes,4; 1,string,No,Yes,No,No,No,,No,No,No,No,No,No
+2,HealthMart,File,CSV Files,4,Prescriptions,Date Issued,5,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+2,HealthMart,File,CSV Files,4,Prescriptions,Prescribed By,6,No,,string,No,No,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Pharmacy_code,1,No,,int,No,Yes,Yes,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,License_code,2,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Location,3,No,,string,No,No,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Pharmacy_Name,4,No,,string,No,No,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Pharmacy_Address,5,No,,string,No,No,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Pharmacy_mail_ID,6,No,,string,No,No,No,No,No,,No,No,Yes,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Pharmacy_Phone,7,No,,string,No,Yes,No,No,No,,No,No,Yes,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Pharmacy_contact_person,8,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Sales_Type,9,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Encounter_number,10,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Encounter_Date,11,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Order_Id,12,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Dispence_ID,13,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,drug-code,14,No,,string,No,No,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,DrugName,15,No,,string,No,No,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,qty,16,No,,int,Yes,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,unit_of_measure,17,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,doctor_id,18,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,PATIENT_ID,19,No,,int,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,patientName,20,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,patient_phone,21,No,,int,No,Yes,No,No,No,,No,No,Yes,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,PatientWeight,22,No,,string,No,Yes,No,No,No,,No,No,No,No,No,Yes
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,patient_height,23,No,,string,No,Yes,No,No,No,,No,No,No,No,No,Yes
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,insurance-status,24,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,patient_email,25,No,,string,No,Yes,No,No,No,,No,No,Yes,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Gender,26,Yes,1; 1,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,AGE,27,No,,int,Yes,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,unit_price,28,No,,float,Yes,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,InsProviderCode,29,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,insurance_provider_name,30,No,,string,No,No,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,DiagnosisCode,31,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,record_status,32,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Ordering_Dr_Name,33,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Ordered_on,34,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Ordering_Dr_splty,35,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Ordering_Dr_license_code,36,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Verification_on,37,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Verified_Dr_Code,38,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Verified_dr_Name,39,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,ERX_number,40,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Med_code,41,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Dosage,42,Yes,4; 1,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Copay,43,No,,float,Yes,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Date_of_Payment,44,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Transanction_ID,45,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Policy_Holder_Name,46,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Policy_Expiry_Date,47,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Coverage_Details,48,No,,string,No,No,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Policy_Start_Date,49,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Benefit_Plan,50,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Policy_ID,51,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Claim_Number,52,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Claim_Status,53,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Claim_Amount,54,No,,float,Yes,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Diagnosis_Name,55,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Diagnosis_Priority,56,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Diagnosis_Date,57,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Diagnosis_Status,58,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Chronic_Disease_Indicator,59,No,,string,No,Yes,No,No,No,,No,Yes,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Diagnosis_Confirmation_Date,60,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Record_Creation_Date_Time,61,No,,date,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Created_By,62,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Last_Modified_Date_Time,63,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Modified_By,64,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Record_Status,65,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Route_of_Administration,66,No,,string,No,No,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Encounter_Type,67,No,,string,No,No,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Manufacturer,68,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Payment_Mode,69,No,,string,No,No,No,No,No,,No,No,No,No,No,No
+3,RiteAid,Database,Tables,1,Synthetic_data-RiteAid,Medical_Specialty,70,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+1,WalGreen,File,CSV Files,1,Medication Dosage Instructions,Medication ID,1,Yes,4; 1,int,Yes,Yes,No,No,No,,No,No,No,No,No,No
+1,WalGreen,File,CSV Files,1,Medication Dosage Instructions,Instruction,2,No,,string,No,No,No,No,No,,No,No,No,No,No,No
+1,WalGreen,File,CSV Files,2,Pharmacy Sales,Sale ID,1,No,,string,No,Yes,Yes,No,No,,No,No,No,No,No,No
+1,WalGreen,File,CSV Files,2,Pharmacy Sales,Product ID,2,No,,int,Yes,Yes,Yes,No,No,,Yes,No,No,No,No,No
+1,WalGreen,File,CSV Files,2,Pharmacy Sales,Quantity Sold,3,No,,int,Yes,Yes,Yes,No,No,,No,No,No,No,No,No
+1,WalGreen,File,CSV Files,2,Pharmacy Sales,Total Sale,4,No,,float,Yes,Yes,Yes,No,No,,No,No,No,No,No,No
+1,WalGreen,File,CSV Files,2,Pharmacy Sales,Date,5,No,,date,No,Yes,Yes,No,No,,No,No,No,No,No,No
+1,WalGreen,File,CSV Files,2,Pharmacy Sales,Payment Method,6,No,,string,No,Yes,No,No,No,,No,No,No,No,No,No
+1,WalGreen,File,CSV Files,3,Supplier Information,Supplier ID,1,Yes,3; 3,string,No,Yes,Yes,No,No,,No,No,No,No,No,No
+1,WalGreen,File,CSV Files,3,Supplier Information,Supplier Name,2,No,,string,No,Yes,Yes,No,No,,No,No,No,Yes,No,No
+1,WalGreen,File,CSV Files,3,Supplier Information,Contact Number,3,No,,string,No,Yes,Yes,No,No,,No,No,No,No,No,No
+1,WalGreen,File,CSV Files,3,Supplier Information,Email,4,Yes,1; 3,string,No,Yes,Yes,No,No,,No,No,Yes,No,No,No
+1,WalGreen,File,CSV Files,3,Supplier Information,Product Supplied,5,No,,string,No,Yes,Yes,No,No,,No,No,No,No,No,No

@@ -1,6 +1,6 @@
 Customer ID,Name,Age,Gender,Phone Number,Email
 C001,John Doe,35,Male,555-0101,john.doe@example.com
-C002,Jane Smith,28,Female,555-0102,jane.smith@example.com
-C003,Robert Brown,45,Male,555-0103,robert.brown@email.com
-C004,Lisa White,62,Female,555-0104,lisa.white@email.com
+,Jane Smith,28,,555-0102,jane.smith@example.com
+C003,Robert Brown,45,Male,555-0103,
+C004,Lisa White,,Female,555-0104,
 C005,Michael Green,29,Male,555-0105,michael.green@email.com
